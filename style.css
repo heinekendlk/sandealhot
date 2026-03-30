@@ -478,13 +478,13 @@ select {
   font-size: 0.92rem;
 }
 
-@media (max-width 1100px) {
+@media (max-width: 1100px) {
   .deal-grid {
     grid-template-columns: repeat(3, 1fr);
   }
 }
 
-@media (max-width 900px) {
+@media (max-width: 900px) {
   .hero-grid,
   .toolbar {
     grid-template-columns: 1fr;
@@ -515,7 +515,7 @@ select {
   }
 }
 
-@media (max-width 560px) {
+@media (max-width: 560px) {
   .deal-grid {
     grid-template-columns: 1fr;
   }
