@@ -16,20 +16,43 @@ async function syncSheetsToLocal() {
     const response = await fetch(CSV_URL);
     if (!response.ok) throw new Error(`Không thể kết nối Google Sheets: ${response.statusText}`);
 
-    const csvData = await response.text();
-    const lines = csvData.split('\r\n'); // Tách theo dòng
-    
-    if (lines.length < 2) throw new Error('Dữ liệu Sheet trống hoặc không đúng định dạng');
+    const csvText = await response.text();
 
-    // Lấy tiêu đề cột (Hàng đầu tiên)
-    const headers = lines[0].split(',').map(h => h.trim());
+    // Hàm parse CSV chuyên nghiệp để xử lý dấu phẩy trong ngoặc kép và xuống dòng
+    const parseCSV = (text) => {
+      const result = [];
+      let row = [];
+      let field = '';
+      let inQuotes = false;
+      for (let i = 0; i < text.length; i++) {
+        const char = text[i];
+        const nextChar = text[i + 1];
+        if (inQuotes) {
+          if (char === '"' && nextChar === '"') { field += '"'; i++; } // Xử lý dấu ngoặc kép kép
+          else if (char === '"') inQuotes = false;
+          else field += char;
+        } else {
+          if (char === '"') inQuotes = true;
+          else if (char === ',') { row.push(field); field = ''; }
+          else if (char === '\n' || char === '\r') {
+            row.push(field);
+            if (row.some(f => f.trim() !== '')) result.push(row);
+            row = []; field = '';
+            if (char === '\r' && nextChar === '\n') i++; // Xử lý \r\n
+          } else field += char;
+        }
+      }
+      if (field || row.length > 0) { row.push(field); result.push(row); }
+      return result;
+    };
 
-    // Chuyển đổi các hàng còn lại thành mảng JSON
-    const jsonData = lines.slice(1).map((line, index) => {
-      // Xử lý đơn giản cho CSV (Lưu ý: Không hỗ trợ nội dung có dấu phẩy bên trong ngoặc kép)
-      const values = line.split(',');
+    const rows = parseCSV(csvText);
+    if (rows.length < 2) throw new Error('Dữ liệu Sheet trống hoặc không đúng định dạng');
+
+    const headers = rows[0].map(h => h.trim());
+
+    const jsonData = rows.slice(1).map((values) => {
       const obj = {};
-
       headers.forEach((header, i) => {
         let val = values[i] ? values[i].trim() : "";
 
