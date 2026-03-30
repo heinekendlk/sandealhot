@@ -17,7 +17,7 @@ const couponList = document.getElementById('couponList');
 
 async function init() {
   try {
-    const response = await fetch('https://script.google.com/macros/s/AKfycbydV8aYZJvbfjhIeIfmxyZ6oX0lsdKOLw4MFIpmgvcKtjRznYsDR1Hh0jKa3vEVj9K_Ug/exec');
+    const response = await fetch('product.json');
     if (!response.ok) {
       throw new Error(`Lỗi hệ thống: Không tìm thấy tệp dữ liệu (HTTP ${response.status})`);
     }
