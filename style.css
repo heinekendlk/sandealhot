@@ -60,6 +60,7 @@ select {
   background: rgba(255, 255, 255, 0.92);
   backdrop-filter: blur(10px);
   border-bottom: 1px solid rgba(229, 231, 235, 0.8);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .header-wrap {
@@ -68,12 +69,15 @@ select {
   align-items: center;
   gap: 16px;
   padding: 16px 0;
+  transition: all 0.3s ease;
 }
 
 .brand {
   display: flex;
   align-items: center;
   gap: 12px;
+  transition: all 0.3s ease;
+  max-height: 100px;
 }
 
 .brand-text {
@@ -499,6 +503,20 @@ select {
     align-items: center;
     text-align: center;
     padding: 12px 0;
+  }
+
+  .header-shrunk .brand {
+    max-height: 0;
+    opacity: 0;
+    margin-bottom: 0;
+    overflow: hidden;
+    pointer-events: none;
+    transform: translateY(-20px);
+  }
+
+  .header-shrunk .header-wrap {
+    padding: 8px 0;
+    gap: 0;
   }
 
   .brand {
