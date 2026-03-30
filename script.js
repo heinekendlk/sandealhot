@@ -17,7 +17,7 @@ const couponList = document.getElementById('couponList');
 
 async function init() {
   try {
-    const response = await fetch('product.json');
+    const response = await fetch('products.json');
     if (!response.ok) {
       throw new Error(`Lỗi hệ thống: Không tìm thấy tệp dữ liệu (HTTP ${response.status})`);
     }
