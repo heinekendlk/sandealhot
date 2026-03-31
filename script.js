@@ -71,13 +71,25 @@ function bindEvents() {
 
   // Xử lý hiệu ứng co giãn Header khi cuộn trang (chủ yếu cho mobile)
   const header = document.querySelector('.site-header');
+  const backToTopBtn = document.getElementById('backToTop');
+
   window.addEventListener('scroll', () => {
     if (window.scrollY > 50) {
       header.classList.add('header-shrunk');
     } else {
       header.classList.remove('header-shrunk');
     }
+
+    if (window.scrollY > 400) {
+      backToTopBtn.classList.add('visible');
+    } else {
+      backToTopBtn.classList.remove('visible');
+    }
   }, { passive: true });
+
+  backToTopBtn.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
 }
 
 function calcDiscount(oldPrice, newPrice) {
