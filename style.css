@@ -317,10 +317,20 @@ select {
   background: #fff;
 }
 
+.deal-thumb a {
+  display: block;
+  height: 100%;
+}
+
 .deal-thumb img {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.deal-card:hover .deal-thumb img {
+  transform: scale(1.08);
 }
 
 .badge-wrap {
@@ -362,6 +372,16 @@ select {
   font-size: 1rem;
   font-weight: 700;
   min-height: 48px;
+}
+
+.deal-title a {
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.2s ease;
+}
+
+.deal-title a:hover {
+  color: var(--primary);
 }
 
 .deal-brand {
