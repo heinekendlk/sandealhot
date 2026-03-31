@@ -565,3 +565,37 @@ select {
     gap: 4px;
   }
 }
+.hero-left.card {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  overflow: hidden;
+}
+
+.hero-content {
+  flex: 1;
+}
+
+.hero-media {
+  flex: 0 0 200px; /* Độ rộng của ảnh */
+}
+
+.hero-media img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  object-fit: cover;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+/* Trên mobile thì xếp chồng lên nhau */
+@media (max-width: 768px) {
+  .hero-left.card {
+    flex-direction: column-reverse;
+  }
+  .hero-media {
+    flex: 0 0 auto;
+    width: 100%;
+    max-width: 250px;
+  }
+}
