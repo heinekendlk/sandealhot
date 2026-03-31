@@ -76,21 +76,6 @@
   },
   {
     "id": 6,
-    "title": "[QUÀ TẶNG KHÔNG BÁN] Hộp carton Actidem",
-    "category": "FMCG",
-    "brand": "Actidem Official Store",
-    "image": "https://cf.shopee.vn/file/vn-11134207-81ztc-mm9rvfl7g3cxce",
-    "oldPrice": 240000,
-    "newPrice": 155000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -22%",
-    "affiliateUrl": "https://shopee.vn/product/4967860/25752493911",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 7,
     "title": "[HB QUÀ TẶNG KHÔNG BÁN] Bao lì xì Actidem (5 cái/túi)",
     "category": "FMCG",
     "brand": "Actidem Official Store",
@@ -105,7 +90,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 8,
+    "id": 7,
     "title": "1 chai dầu tắm gội 3IN1 Bondy Care Men 300G – Chăm sóc toàn diện, thể hiện phong cách phái mạnh",
     "category": "Lifestyle",
     "brand": "Lixco - Chăm Sóc Gia Đình",
@@ -120,7 +105,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 9,
+    "id": 8,
     "title": "Sữa rửa mặt ngăn ngừa và giảm mụn lá neem Himalaya Purifying Neem Face Wash 50ml",
     "category": "FMCG",
     "brand": "Himalaya Herbals Việt Nam",
@@ -135,7 +120,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 10,
+    "id": 9,
     "title": "[MUA 1 TẶNG 1] Nước Hoa MOAW MOAWS Sunkissed 10ml - Dầu Thơm Quyến Rũ, Lưu Hương 6h",
     "category": "FMCG",
     "brand": "Moaw Moaws Việt Nam",
@@ -150,7 +135,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 11,
+    "id": 10,
     "title": "[GIFT_LAMY] COMBO 10 GÓI TẨY TRANG NHANH 1 TỜ",
     "category": "Lifestyle",
     "brand": "TỔNG KHO LAMY OFFICIAL",
@@ -165,7 +150,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 12,
+    "id": 11,
     "title": "[MUA 1 TẶNG 1] Nước Hoa Moaw Moaws Sunkissed – Lưu Hương 6-8 Tiếng, Hương Trái Cây Ngọt Ngào",
     "category": "FMCG",
     "brand": "Moaw Moaws Việt Nam",
@@ -180,7 +165,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 13,
+    "id": 12,
     "title": "Sheglam Magic Finger Mini Sponge 3 Cái / bộ Mini Trang Điểm Puff Concealer Pha Trộn Bọt Biển Mềm Làm Đẹp Dụng Cụ Trang Điểm",
     "category": "CB",
     "brand": "SHEGLAM Official Store",
@@ -195,7 +180,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 14,
+    "id": 13,
     "title": "[MIẾNG NHỎ] Hộp bông mút trang điểm M.O.I",
     "category": "FMCG",
     "brand": "M.O.I Store",
@@ -210,7 +195,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 15,
+    "id": 14,
     "title": "Bông Tẩy Trang 222 Miếng Lameila Cotton Pad Mèo - Siêu Dày, Siêu Mềm Mịn 100% Bông Tự Nhiên",
     "category": "FMCG",
     "brand": "BiniShop.store",
@@ -225,7 +210,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 16,
+    "id": 15,
     "title": "Tẩy Tế Bào Chết Da Đầu BHA Solzena Detox Scalp Scrub Sạch Gàu Ngứa, Ngăn Bết Dầu, Phồng Tóc 50g",
     "category": "FMCG",
     "brand": "Compliment No Problem Việt Nam",
@@ -240,7 +225,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 17,
+    "id": 16,
     "title": "[Hàng tặng không bán] Mặt Nạ Foodaholic Retinol/Pretty Skin - Tặng 1 Mask Ngẫu Nhiên",
     "category": "FMCG",
     "brand": "Compliment No Problem Việt Nam",
@@ -255,7 +240,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 18,
+    "id": 17,
     "title": "Túi Baseus thân cứng mini đựng tai nghe/cáp sạc USB/thẻ nhớ SD TF",
     "category": "CB",
     "brand": "Baseus Official Mall",
@@ -270,7 +255,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 19,
+    "id": 18,
     "title": "Mặt nạ tinh chất Hyssop O.TWO.O 3.5ml * 1 / 3.5ml * 12",
     "category": "CB",
     "brand": "O.TWO.O Official Store",
@@ -285,22 +270,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 20,
-    "title": "Dải loại bỏ mụn đầu đen O.TWO.O * 1",
-    "category": "CB",
-    "brand": "O.TWO.O Official Store",
-    "image": "https://cf.shopee.vn/file/cn-11134207-7ras8-mcn1j4dt91c0a5",
-    "oldPrice": 220844,
-    "newPrice": 118000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -22%",
-    "affiliateUrl": "https://shopee.vn/product/151371701/2302693485",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 21,
+    "id": 19,
     "title": "Sữa rửa mặt ngăn ngừa và giảm mụn lá neem Himalaya Purifying Neem Face Wash 50ml",
     "category": "FMCG",
     "brand": "Himalaya Herbals Việt Nam",
@@ -315,7 +285,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 22,
+    "id": 20,
     "title": "Bông Tẩy Trang 222 Miếng Lameila Cotton Pad Mèo - Siêu Dày, Siêu Mềm Mịn 100% Bông Tự Nhiên",
     "category": "FMCG",
     "brand": "Oliviashope2025",
@@ -330,7 +300,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 23,
+    "id": 21,
     "title": "(Mới) Móc dán tường trong suốt siêu dính chịu lực tốt",
     "category": "Lifestyle",
     "brand": "Cửa Hàng KICHIN",
@@ -345,7 +315,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 24,
+    "id": 22,
     "title": "Xịt Mọc Tóc Minoxidil Bailleul 5% Nhập Khẩu Pháp, Kích Thích Mọc Tóc Và Giảm Rụng Tóc Từ Bailleul Chính Hãng",
     "category": "FMCG",
     "brand": "Minoxidil Bailleul Chính Hãng",
@@ -360,7 +330,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 25,
+    "id": 23,
     "title": "PICKME CARE FAMILY_Thùng 10 gói khăn ướt cho bé Lamy gói 100 tờ không mùi không paraben",
     "category": "FMCG",
     "brand": "Pickme Care Family",
@@ -375,7 +345,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 26,
+    "id": 24,
     "title": "Ruột gối ôm ép hơi dài 100x35cm 100% gòn đàn hồi cao cấp Ben Ben - gối ôm người lớn gối ôm hơi",
     "category": "Lifestyle",
     "brand": "BenBen Chăn Ga Gối Chiếu Mùng",
@@ -390,7 +360,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 27,
+    "id": 25,
     "title": "[LAMY OFFICIAL]_Thùng 10 gói khăn ướt Lamy gói 100 tờ không mùi An Toàn Cho Da",
     "category": "Lifestyle",
     "brand": "TỔNG KHO LAMY OFFICIAL",
@@ -405,7 +375,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 28,
+    "id": 26,
     "title": "Tinh Chất Cấp Ẩm Sâu Căng Bóng Sáng Da Mediforcell Ultra Hyaluronic Acid Ampoule 100ml",
     "category": "FMCG",
     "brand": "Hà Vy Cosmetics",
@@ -420,7 +390,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 29,
+    "id": 27,
     "title": "Son Tint Lì Romand Juicy Lasting Tint Solunar Edition 5.5g ThegioiSkinfood",
     "category": "FMCG",
     "brand": "Thế Giới Skin Food (Hà Nội)",
@@ -435,7 +405,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 30,
+    "id": 28,
     "title": "Tông Đơ Cắt Tóc Gia Đình, Máy Hớt Tóc Tại Nhà Sạc Pin Tích Điện Kèm Nhiều Phụ Kiện, Bảo Hành 12 Tháng",
     "category": "ELHA",
     "brand": "Thành Đạt_store01",
@@ -450,7 +420,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 31,
+    "id": 29,
     "title": "Lăn khử mùi mồ hôi dành cho nam giới Etiaxil Men 15ml",
     "category": "FMCG",
     "brand": "Etiaxil Official Store",
@@ -465,7 +435,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 32,
+    "id": 30,
     "title": "JAMAY Quạt cầm tay có thể sạc lại với có Sò lạnh 199 tốc độ gió 10000mAh 24h sử dụng Gập 180° màn hình LED F5PRO B",
     "category": "ELHA",
     "brand": "Jamay",
@@ -480,7 +450,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 33,
+    "id": 31,
     "title": "Mặt nạ đất sét neem sạch dầu, giảm mụn Himalaya Neem Face Mask 100ml",
     "category": "FMCG",
     "brand": "Himalaya Herbals Việt Nam",
@@ -495,7 +465,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 34,
+    "id": 32,
     "title": "Thùng 10 gói khăn ướt Lamy HomeCare không cồn không parabens cao cấp dành cho em bé gói 80 tờ",
     "category": "FMCG",
     "brand": "Lamy Homecare",
@@ -510,7 +480,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 35,
+    "id": 33,
     "title": "Ấm đun nước siêu tốc Inox 1.8 Lít Electric Kettle chính hãng, sôi nhanh tự ngắt",
     "category": "FMCG",
     "brand": "GIA DỤNG GIÁ RẺ QPC",
@@ -525,7 +495,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 36,
+    "id": 34,
     "title": "Máy cạo râu Yandou lưỡi ngang RSCW 301U vỏ nhôm màu bạc",
     "category": "FMCG",
     "brand": "YANDOU STORE OFFICIAL",
@@ -540,7 +510,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 37,
+    "id": 35,
     "title": "TỔNG KHO_Thùng 10 gói khăn ướt Lamy không cồn không parabens cao cấp dành cho em bé gói 100 tờ",
     "category": "FMCG",
     "brand": "TỔNG KHO LAMY HCM",
@@ -555,7 +525,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 38,
+    "id": 36,
     "title": "Bàn Để Ủi - Cầu Là Quần Áo Điều Chỉnh 5 Cấp Độ (Giao Màu Ngẫu Nhiên) . Đức Nhung Store",
     "category": "Others",
     "brand": "Đức Nhung Store",
@@ -570,7 +540,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 39,
+    "id": 37,
     "title": "Bộ Cộc Hè Nam Nữ Họa tiết Logo Đơn giản trẻ trung Đơn giản- Bộ Quần Áo Nam Nữ Cao Cấp",
     "category": "Fashion",
     "brand": "KING MAN STOREs",
@@ -585,7 +555,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 40,
+    "id": 38,
     "title": "bộ quần áo LA hoạ tiết in cao cấp sắc nét _bộ đồ thun cộc tay nam cổ tròn new 2025",
     "category": "Fashion",
     "brand": "GentleWear Boutique",
@@ -600,7 +570,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 41,
+    "id": 39,
     "title": "Áo Khoác Hoodie Zip Boxy Chữ Thêu Lưng Nổi MON STUDIO Fofm Dáng Rộng, Cổ Có Nút Bấm Chất Nỉ Bong Dày Dặn New 2026",
     "category": "Fashion",
     "brand": "MONA_Studio",
@@ -615,7 +585,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 42,
+    "id": 40,
     "title": "Combo 10 Miếng Mặt Nạ B5 HA Dưỡng Ẩm Phục Hồi Da K Lady Care – Cấp Ẩm, Làm Dịu, Cho Da Nhạy Cảm",
     "category": "FMCG",
     "brand": "Hân Korea",
@@ -630,7 +600,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 43,
+    "id": 41,
     "title": "Tinh Dầu Massage Yoni Tăng Cảm Giác Yêu Thương Cho Cặp đôi - Làm Hồng Nhu Hoa & Se K..hi ...t Vk",
     "category": "FMCG",
     "brand": "oilmassage",
@@ -645,7 +615,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 44,
+    "id": 42,
     "title": "Quạt tản nhiệt điện thoại S3 sò lạnh siêu rẻ Led RGB Gaming làm mát điện thoại chơi game livestream",
     "category": "ELHA",
     "brand": "Chaienstore",
@@ -660,7 +630,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 45,
+    "id": 43,
     "title": "[Shopee Live] LANBENA GEL LỆT MỤN ĐẦU ĐEN (30G) - HIỆU QUẢ | MIẾNG DÁN CHĂM SÓC DA Mụn 30g Dễ Dùng, Nhanh Chóng Thông Sạch Lỗ Chân Lông Skincare",
     "category": "CB",
     "brand": "LANBENA VN Official Store",
@@ -675,7 +645,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 46,
+    "id": 44,
     "title": "[CAO CẤP] 500g tôm khô, tôm khô loại nhất được hút chân không, tôm khô gửi đi nước",
     "category": "FMCG",
     "brand": "V-FOOD",
@@ -690,7 +660,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 47,
+    "id": 45,
     "title": "30 M mặt nạ nhau thai cừu mặt nạ dưỡng ẩm mặt nạ giấy b5 collagen mặt nạ dưỡng trắng da cấp ẩm phục hồi Rwine Beauty",
     "category": "FMCG",
     "brand": "Luminous Mask Beauty",
@@ -705,7 +675,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 48,
+    "id": 46,
     "title": "Kem Dưỡng Trắng Da Bạch Ngọc Liên - Body Whitening Cream 90g, kem body sáng da, mờ thâm, nám",
     "category": "FMCG",
     "brand": "AN NINH SHOP",
@@ -720,7 +690,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 49,
+    "id": 47,
     "title": "[LAMY OFFICIAL]_Thùng 10 gói khăn ướt Lamy gói 100 tờ không mùi An Toàn Cho Da Trẻ Em",
     "category": "Lifestyle",
     "brand": "TỔNG KHO LAMY OFFICIAL",
@@ -735,7 +705,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 50,
+    "id": 48,
     "title": "Nước rửa xe bọt tuyết Focar 4 lít vệ sinh ô tô xe máy làm sạch sâu siêu tạo bọt rửa xe nhanh tăng độ bóng cho sơn xe",
     "category": "Lifestyle",
     "brand": "Auto Care Luxury",
@@ -750,7 +720,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 51,
+    "id": 49,
     "title": "Nước Tẩy Trang Bioderma Crealine H2O 500ml ,Tẩy Trang Bio Quốc Dân Dành Cho Mọi Loại Da",
     "category": "FMCG",
     "brand": "BiniShop.store",
@@ -765,7 +735,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 52,
+    "id": 50,
     "title": "TỔNG KHO_Thùng 10 Gói Khăn Ướt Cho Bé Lamy 100 Tờ Không Mùi Không Cồn Không Chất Tẩy Trắng",
     "category": "FMCG",
     "brand": "TỔNG KHO LAMY HCM",
@@ -780,7 +750,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 53,
+    "id": 51,
     "title": "Máy hơ gel SUN 5 UV/LED tem xanh 48W 24 bóng đèn - Máy hơ móng mini dành cho học viên Nailbnd",
     "category": "FMCG",
     "brand": "Nail BND Star",
@@ -795,7 +765,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 54,
+    "id": 52,
     "title": "KHO PHÚ NHUẬN_Thùng 10 gói khăn ướt Lamy không cồn không parabens gói 80 tờ cao cấp dành cho em bé",
     "category": "FMCG",
     "brand": "HERMOSO PREMIUM STORE",
@@ -810,7 +780,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 55,
+    "id": 53,
     "title": "[SẴN HÀNG] Len Cloud Candy 500g xoăn 6 sợi mềm mại và mượt mà dùng để đan quần áo, len khăn quàng",
     "category": "Lifestyle",
     "brand": "Tạp Hóa BB.",
@@ -825,7 +795,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 56,
+    "id": 54,
     "title": "Nồi Cơm Điện  CUCKOO  Dung Tích 1L- 1,2L-1,8L Công Suất 700W Nắp Gài Hình Lợn Lòng Nồi Tráng Men Siêu Chống Dính",
     "category": "ELHA",
     "brand": "KITCHEN STOREE",
@@ -840,7 +810,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 57,
+    "id": 55,
     "title": "[MUA 2 TẶNG 1] Combo 2 Dầu Gội Phủ Bạc NEZHA 400ml, Nhuộm Đen/Nâu Tại Nhà, Tặng Túi Nước Giặt 2L",
     "category": "FMCG",
     "brand": "NEZHA VN",
@@ -855,7 +825,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 58,
+    "id": 56,
     "title": "Combo Giảm Thâm Mắt, Giảm Thâm Bọng Mắt, Giảm Nếp Nhăn 2 Bước SKINLAX",
     "category": "FMCG",
     "brand": "Skinlax - Gian Hàng Chính Hãng",
@@ -870,7 +840,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 59,
+    "id": 57,
     "title": "Máy biến hình 441pcs  Mô hình Hornet/Optimus Prime, Có thể biến thành xe, Đồ chơi trẻ em",
     "category": "Lifestyle",
     "brand": "VN_store0926",
@@ -885,7 +855,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 60,
+    "id": 58,
     "title": "Máy tăm nước Oral Irrigator Bản Pro, tăm nước vệ sinh răng 3 cấp độ 4 đầu tăm mới nhất 2024",
     "category": "FMCG",
     "brand": "Đồ Gia Dụng Thế Hệ Mới",
@@ -900,7 +870,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 61,
+    "id": 59,
     "title": "[𝐓𝐢𝐭𝐚𝐧𝐢𝐮𝐦] Gọng Kính Titan Nguyên Khối 𝐃𝐞𝐬𝐩𝐨𝐢𝐧𝐭𝐬Thay Được Mọi Tròng,Gọng Titanium nhập Nhật Japan-60",
     "category": "Fashion",
     "brand": "Despoints Eyewear",
@@ -915,7 +885,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 62,
+    "id": 60,
     "title": "[CHÍNH HÃNG] Nước Hoa Nữ Narciso Rodriguez Ambree Eau De Parfum - Nar cam lùn 10ml - QH PERFUME",
     "category": "FMCG",
     "brand": "NƯỚC HOA CHIẾT QH",
@@ -930,7 +900,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 63,
+    "id": 61,
     "title": "[MUA 1 TẶNG 1] Nước Hoa MOAW MOAWS Sunkissed 10ml - Dầu Thơm Quyến Rũ, Lưu Hương 6h",
     "category": "FMCG",
     "brand": "Moaw Moaws Việt Nam",
@@ -945,7 +915,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 64,
+    "id": 62,
     "title": "TẶNG MÓC TREO_Thùng 02 túi khăn vải rút khô đa năng Lamy túi 200 tờ không mùi",
     "category": "FMCG",
     "brand": "ECOBI OFFICIAL STORE",
@@ -960,7 +930,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 65,
+    "id": 63,
     "title": "Áo Thun Tay Dài Boxy Logo Hello kitty Áo Longsleev Unisex by ANDYSHOP",
     "category": "Fashion",
     "brand": "ANDY. SHOP",
@@ -975,7 +945,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 66,
+    "id": 64,
     "title": "Bộ Quần Aó ADS Cộc Thoáng Mát Mùa Hè Cực Năng Động Phù Hợp Với Gioi Trẻ_Aó AD.S Cộc S2",
     "category": "Fashion",
     "brand": "Thời Trang Unisex Hải Đăng",
@@ -990,7 +960,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 67,
+    "id": 65,
     "title": "Combo 2 bước vệ sinh và dưỡng nội thất ô tô tại nhà FOCAR làm sạch hiệu quả nâng cao tuổi thọ nội thất xe sạch và bóng",
     "category": "Lifestyle",
     "brand": "Auto Care Luxury",
@@ -1005,7 +975,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 68,
+    "id": 66,
     "title": "Combo 3 Men sống Bạch mai Men vi sinh cho bé Tiêu chảy Táo bón Rối loạn tiêu hóa với chủng lợi khuẩn",
     "category": "FMCG",
     "brand": "Đỗ Gia Pharma",
@@ -1020,7 +990,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 69,
+    "id": 67,
     "title": "Giấy Lau Kính Chống Bám Bụi Bẩn, Vân Tay Trên Kính, Laptop,...Visiomax Hộp 52 Tờ - Nhập Khẩu Từ Đức",
     "category": "Lifestyle",
     "brand": "Nghiện Nhà Sạch Store",
@@ -1035,7 +1005,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 70,
+    "id": 68,
     "title": "Sách – Hackers IELTS Basic (Reading + Listening + Writing + Speaking) (Gamma Books)",
     "category": "Lifestyle",
     "brand": "Alpha Books Official",
@@ -1050,7 +1020,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 71,
+    "id": 69,
     "title": "Áo thun nữ Myn cổ vuông tay ngắn dáng trơn form vừa ôm body vải cotton CAO CẤP màu trắng đen MD24.02",
     "category": "Fashion",
     "brand": "Myn's Dresser",
@@ -1065,7 +1035,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 72,
+    "id": 70,
     "title": "[MUA 1 TẶNG 2] Dầu Dưỡng Massage Body - Dầu Tình Yêu Love Oil MOAW MOAWS – Dầu Dưỡng Trắng, Mờ Thâm",
     "category": "FMCG",
     "brand": "Moaw Moaws Việt Nam",
@@ -1080,22 +1050,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 73,
-    "title": "Giấy Lau Kính Chống Bám Bụi Bẩn, Vân Tay Trên Kính, Laptop,...Visiomax Hộp 52 Tờ - Nhập Khẩu Từ Đức",
-    "category": "Lifestyle",
-    "brand": "Nghiện Nhà Sạch Store",
-    "image": "https://cf.shopee.vn/file/vn-11134207-81ztc-mlerqxhqikunaf",
-    "oldPrice": 387000,
-    "newPrice": 239000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -22%",
-    "affiliateUrl": "https://shopee.vn/product/63389811/43257841700",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 74,
+    "id": 71,
     "title": "Xịt Mũi Cho Mẹ Và Bé Từ 6 Tháng tuổi Otosan Nasal Spray Baby Giảm Tắc Nghẹt Mũi và giúp thông mũi Lọ 20ml",
     "category": "FMCG",
     "brand": "Otosan Việt Nam Store",
@@ -1110,22 +1065,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 75,
-    "title": "Giấy Lau Kính Chống Bám Bụi Bẩn, Vân Tay Trên Kính, Laptop,...Visiomax Hộp 52 Tờ - Nhập Khẩu Từ Đức",
-    "category": "Lifestyle",
-    "brand": "Nghiện Nhà Sạch Store",
-    "image": "https://cf.shopee.vn/file/vn-11134207-81ztc-mlerqxhqikunaf",
-    "oldPrice": 387000,
-    "newPrice": 239000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -22%",
-    "affiliateUrl": "https://shopee.vn/product/63389811/43257841700",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 76,
+    "id": 72,
     "title": "Mắt Kính GM Nam Nữ Form To – Kính Cận Thời Trang Cao Cấp Bản Lề 5 Chân DORIS",
     "category": "Fashion",
     "brand": "Doris Eyewear",
@@ -1140,7 +1080,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 77,
+    "id": 73,
     "title": "Phân Bón Sinh Học KA GREEN LIQUID KAGRI Dạng Gel 1L – Kích Rễ Mạnh, Bung Đọt, Dày Lá, Cải Tạo Đất",
     "category": "Lifestyle",
     "brand": "Phân bón KAGRI Việt Nam",
@@ -1155,7 +1095,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 78,
+    "id": 74,
     "title": "KHO PHÚ NHUẬN_Thùng 10 gói khăn ướt Lamy không cồn không parabens gói 100 tờ cao cấp dành cho em bé",
     "category": "FMCG",
     "brand": "HERMOSO PREMIUM STORE",
@@ -1170,7 +1110,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 79,
+    "id": 75,
     "title": "Giày Tây Nam Công Sở Phong Cách Lịch Lãm Đế Cao 4.5 cm G22 Giày Thiết Kế Chuẩn Form Bền và Êm Đủ BH 12 Tháng",
     "category": "Fashion",
     "brand": "XƯỞNG GIÀY DA XUÂN KHOA",
@@ -1185,7 +1125,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 80,
+    "id": 76,
     "title": "Máy đo huyết áp và nhịp tim tự động ZLIFE, Đồ đo huyết áp điện tử phiên bản đọc tiếng Việt",
     "category": "FMCG",
     "brand": "landuyen",
@@ -1200,7 +1140,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 81,
+    "id": 77,
     "title": "Xịt Mũi Cho Mẹ Và Bé Từ 6 Tháng tuổi Otosan Nasal Spray Baby Giảm Tắc Nghẹt Mũi và giúp thông mũi Lọ 20ml",
     "category": "FMCG",
     "brand": "Otosan Việt Nam Store",
@@ -1215,7 +1155,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 82,
+    "id": 78,
     "title": "Nước Tẩy Trang Bioderma Senbium H2O,Tẩy Trang Bio  Làm Sạch Sâu Cho Da Dầu, Da Nhạy Cảm 500ml",
     "category": "FMCG",
     "brand": "Aliceshope2025",
@@ -1230,7 +1170,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 83,
+    "id": 79,
     "title": "Thùng 10 gói khăn ướt Lamy HomeCare gói 80 tờ không cồn không parabens cao cấp dành cho em bé",
     "category": "FMCG",
     "brand": "Lamy Homecare",
@@ -1245,7 +1185,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 84,
+    "id": 80,
     "title": "[MUA 1 TẶNG 1] Tẩy Tế Bào Chết Hạnh Nhân, Sáng Da -Tẩy Da Chết, Scrub Sữa Làm Trắng MOAW MOAWS 230g",
     "category": "FMCG",
     "brand": "Moaw Moaws Việt Nam",
@@ -1260,7 +1200,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 85,
+    "id": 81,
     "title": "[MUA 1 TẶNG 2] Dầu Dưỡng Massage Body - Dầu Tình Yêu Love Oil MOAW MOAWS – Dầu Dưỡng Trắng, Mờ Thâm",
     "category": "FMCG",
     "brand": "Moaw Moaws Việt Nam",
@@ -1275,7 +1215,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 86,
+    "id": 82,
     "title": "Máy Hút Bụi Cầm Tay Hot 2026, Công suất Lớn, Lực Hút 128.000 Pa, Chân Pin Phổ Thông 4cm Tiện Lợi Và Đa Năng",
     "category": "Others",
     "brand": "dangquang88",
@@ -1290,7 +1230,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 87,
+    "id": 83,
     "title": "Titanium Gọng Kính Nam Business Elite Despoints Gọng Titan cao cấp, thay được mọi loại tròng.",
     "category": "Fashion",
     "brand": "Despoints Eyewear",
@@ -1305,7 +1245,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 88,
+    "id": 84,
     "title": "Máy lấy cao răng tại nhà M07, dụng cụ lấy vôi răng kiêm bàn chải điện sạc đế từ tính Kháng nước IPX7 Tặng kèm kệ đỡ",
     "category": "FMCG",
     "brand": "Loluyn Store",
@@ -1320,7 +1260,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 89,
+    "id": 85,
     "title": "Bánh Ăn Dặm Cao Cấp NutriAZ Vị Trái Cây, Rau Củ Cho Trẻ Từ 6 Tháng Tuổi",
     "category": "FMCG",
     "brand": "NutriAZ Việt Nam",
@@ -1335,7 +1275,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 90,
+    "id": 86,
     "title": "Bộ quần áo thể thao addas in logo nổi trước ngực cực kì tinh tế chất liệu coton co dãn mát mẻ neww 2024",
     "category": "Fashion",
     "brand": "UNI Shop -áo polo chính hãng",
@@ -1350,7 +1290,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 91,
+    "id": 87,
     "title": "Giày tây nam da bò đế kếp hàng cao cấp da bò thật 100% mềm mại kết hợp đế kếp sịn chống trơn trượt G 10 bảo hành 1 năm",
     "category": "Fashion",
     "brand": "BE CLASSY_STORE",
@@ -1365,7 +1305,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 92,
+    "id": 88,
     "title": "Áo Khoác Hoodie Zip COTTON Chất nỉ bông Cotton Mềm Mịn Dày Dặn Thêu Xù NQ30 MISO Form Boxy Form Rộng Unisex 2026",
     "category": "Fashion",
     "brand": "MONA_Studio",
@@ -1380,7 +1320,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 93,
+    "id": 89,
     "title": "Tinh Chất (Serum) Giảm Thâm Môi, Dưỡng Hồng Môi Dạng Lăn Giúp Dưỡng Ẩm, Môi Sáng Màu SKINLAX 10ml",
     "category": "FMCG",
     "brand": "Skinlax - Gian Hàng Chính Hãng",
@@ -1395,7 +1335,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 94,
+    "id": 90,
     "title": "Máy Massage Đầu Cổ MISUMA Scalp Massager Giải Toả Căng Thẳng, Mệt Mỏi Thư Giãn Gội Đầu Dưỡng Sinh",
     "category": "ELHA",
     "brand": "Misuma Mall",
@@ -1410,7 +1350,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 95,
+    "id": 91,
     "title": "Combo 30 mặt nạ nhau thai cừu mặt nạ dưỡng ẩm mặt nạ giấy b5 collagen mặt nạ dưỡng trắng da cấp ẩm phục hồi Rwine Beauty",
     "category": "FMCG",
     "brand": "Luminous Mask Beauty",
@@ -1425,7 +1365,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 96,
+    "id": 92,
     "title": "Dầu Massage Yoni Toàn Thân Cho Nam Nữ Bôi trơn & Cải thiện cảm xúc Vợ Chồng - Tăng cảm giác được yêu thương - Oil",
     "category": "FMCG",
     "brand": "oilmassage",
@@ -1440,7 +1380,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 97,
+    "id": 93,
     "title": "[MUA 1 TẶNG 1] Tinh Dầu Bưởi Ngừa Rụng & Kích Thích Mọc Tóc - Xịt Bưởi Mọc Tóc MILAGANICS (Chai)",
     "category": "FMCG",
     "brand": "eHerb Việt Nam",
@@ -1455,7 +1395,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 98,
+    "id": 94,
     "title": "Nước rửa xe không chạm Focar Cao Cấp phủ nano tạo hiệu ứng sáng bóng sau khi rửa loại bỏ hoàn toàn vết bẩn trên bề mặt",
     "category": "Lifestyle",
     "brand": "Auto Care Luxury",
@@ -1470,7 +1410,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 99,
+    "id": 95,
     "title": "Bàn chải điện Sonic X7 dùng công nghệ rung sóng âm, bàn chải đánh răng tự động đánh tan mảng bám thế hệ mới nhất 2024",
     "category": "FMCG",
     "brand": "Đồ Gia Dụng Thế Hệ Mới",
@@ -1485,7 +1425,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 100,
+    "id": 96,
     "title": "Vợt Bắt Muỗi Kiêm Đèn Muỗi miLife B2 - Chống Muỗi 12 Tháng",
     "category": "Lifestyle",
     "brand": "Gia dụng nhà Gấu 86",
@@ -1500,7 +1440,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 101,
+    "id": 97,
     "title": "Khuyến Mãi Đặc Biệt – Mua 2 Tuýp Kem Đánh Răng làm trắng hương hoa nhài JASMEEN! ( 100g*2)",
     "category": "CB",
     "brand": "JASMEEN Toothpaste",
@@ -1515,7 +1455,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 102,
+    "id": 98,
     "title": "Dầu Gội, Xả Hachi Anti-Dandruff dành cho tóc gàu chiết xuất từ Olive hỗ trợ giảm gàu ngứa",
     "category": "FMCG",
     "brand": "Cửa hàng 365+",
@@ -1530,7 +1470,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 103,
+    "id": 99,
     "title": "[CTY] Mặt nạ cá hồi JMSolution MIA COSMETICS dưỡng trắng cung cấp ẩm ngăn ngừa lão hoá phục hồi da 1H 5 Miếng",
     "category": "FMCG",
     "brand": "Mỹ phẩm MIA Cosmetics",
@@ -1545,22 +1485,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 104,
-    "title": "[CTY] Mặt nạ cá hồi JMSolution MIA COSMETICS dưỡng trắng cung cấp ẩm ngăn ngừa lão hoá phục hồi da 1H 5 Miếng",
-    "category": "FMCG",
-    "brand": "Mỹ phẩm MIA Cosmetics",
-    "image": "https://cf.shopee.vn/file/vn-11134207-820l4-mhvdafyo9fr42a",
-    "oldPrice": 255000,
-    "newPrice": 155000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -22%",
-    "affiliateUrl": "https://shopee.vn/product/134453030/56502613994",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 105,
+    "id": 100,
     "title": "Nước hoa nữ Nar Rodriguez Nar For Her EDP hương thơm  ngọt ngào , trong trẻo chiết 10ml 1995 PERFUME",
     "category": "FMCG",
     "brand": "1995 PERFUME AUTHENTIC",
@@ -1575,7 +1500,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 106,
+    "id": 101,
     "title": "1KG Nhang Hương Bài 5SAO hương thơm mùi tết, nhang thảo mộc ít khói, không độc hại, không đậu tàn.",
     "category": "Lifestyle",
     "brand": "Xưởng Nhang Sạch _ 5SAO",
@@ -1590,22 +1515,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 107,
-    "title": "[CTY] Mặt nạ cá hồi JMSolution MIA COSMETICS dưỡng trắng cung cấp ẩm ngăn ngừa lão hoá phục hồi da 1H 5 Miếng",
-    "category": "FMCG",
-    "brand": "Mỹ phẩm MIA Cosmetics",
-    "image": "https://cf.shopee.vn/file/vn-11134207-820l4-mhvdafyo9fr42a",
-    "oldPrice": 255000,
-    "newPrice": 155000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -22%",
-    "affiliateUrl": "https://shopee.vn/product/134453030/56502613994",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 108,
+    "id": 102,
     "title": "Tinh Dầu massage yoni cải thiện cảm xúc Vk cho Nam và Nữ",
     "category": "FMCG",
     "brand": "tinhdaumassageyoni",
@@ -1620,7 +1530,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 109,
+    "id": 103,
     "title": "(COMBO)5 Muối Hạt Sạch Xuất Khẩu Nhật Bản Nadi Salt, Bổ Sung Khoáng Chất, Muối Ngon Nhất Thế Giới * | Túi 1Kg",
     "category": "FMCG",
     "brand": "DeepSeek",
@@ -1635,7 +1545,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 110,
+    "id": 104,
     "title": "Áo khoác Hoodie zip cổ cao logo thêu chất nỉ bông cao cấp form rộng nam nữ unisex Hàn Quốc - Hot 2025",
     "category": "Lifestyle",
     "brand": "Shop Thời Trang Trend Giá Rẻ",
@@ -1650,7 +1560,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 111,
+    "id": 105,
     "title": "Máy Hàn Miệng Túi, Hút Chân Không Thực Phẩm, Đồ Dùng Dành Cho Gia Đình Siêu Tiện Lợi SNOWDOME APPLIANCES STORE",
     "category": "Lifestyle",
     "brand": "SNOWDOME APPLIANCES STORE",
@@ -1665,7 +1575,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 112,
+    "id": 106,
     "title": "[MUA 1 TẶNG 1] Nước hoa hồng toner hoa cúc & aha 5% ngừa mụn, kiềm dầu da mụn MILAGANICS",
     "category": "FMCG",
     "brand": "eherbvietnam",
@@ -1680,7 +1590,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 113,
+    "id": 107,
     "title": "Bộ Dung Dịch Vệ Sinh Nữ Và Men Vi Sinh Phụ Khoa Lagumi Giúp Giảm Viêm Nấm Ngứa",
     "category": "FMCG",
     "brand": "Lagumi Official Store",
@@ -1695,7 +1605,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 114,
+    "id": 108,
     "title": "Sơ Mi Nữ Dài Tay Hình Thêu Chữ Pep Chất Thô Mềm Kèm Khăn, Sơ Mi Kẻ Kiểu Nữ Dáng Rộng Hàn Quốc- zhangchou_clothes",
     "category": "Fashion",
     "brand": "zhangchou_clothes",
@@ -1710,7 +1620,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 115,
+    "id": 109,
     "title": "Đồ bộ thể thao nam in nổi chất vải dày dặn thoáng mát co dãn.bộ cộc thẻ thao nam nữ new 2024",
     "category": "Fashion",
     "brand": "Teen Fashion Stores",
@@ -1725,7 +1635,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 116,
+    "id": 110,
     "title": "Máy Hút Bụi Cầm Tay Không Dây DAMAS DA113C - Lực Hút Mạnh Mẽ - Thiết Kế Nhỏ Gọn - Hàng Chính Hãng",
     "category": "ELHA",
     "brand": "DAMAS HN Việt Nam",
@@ -1740,7 +1650,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 117,
+    "id": 111,
     "title": "Máy Hút Bụi Cầm Tay Chạy Pin MaKiTa Công Suất Lớn, Máy Hút Bụi Chạy Pin Chân Phổ Thông M21, Tiện Lợi, Rễ Sử Dụng",
     "category": "Lifestyle",
     "brand": "Hưng Thịnh Store 79",
@@ -1755,7 +1665,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 118,
+    "id": 112,
     "title": "TẶNG MÓC TREO_Thùng 02 túi khăn vải rút khô đa năng cao cấp EcoWipes 500gram không mùi",
     "category": "FMCG",
     "brand": "ECOBI OFFICIAL STORE",
@@ -1770,7 +1680,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 119,
+    "id": 113,
     "title": "[AUTH] Nước Hoa Nữ Narciso Rodriguez Musc Noir Rose For Her Nồng Độ EDP - 10ml",
     "category": "FMCG",
     "brand": "NƯỚC HOA CHIẾT QH",
@@ -1785,7 +1695,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 120,
+    "id": 114,
     "title": "[ MUA 1 TẶNG 1 HEO NHỎ] Heo đất tiết kiệm, Heo đất Chuột Lang CAPYBARA size ĐẠI Cute mẫu hot 2024 - Piggybank Store LD42",
     "category": "Lifestyle",
     "brand": "Piggybank Store",
@@ -1800,7 +1710,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 121,
+    "id": 115,
     "title": "Chiếu Mây Điều Hòa 3D Lót Lụa Size 1m 1m2 1m4 1m6 1m8 Trải Sàn Trải Đệm Cùng Mua Sắm",
     "category": "Lifestyle",
     "brand": "CÙNG MUA SẮM",
@@ -1815,7 +1725,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 122,
+    "id": 116,
     "title": "[NÂU HẠT DẺ] Dầu Gội Nhuộm Thảo Dược Phủ Bạc NEZHA 400ml, Nhuộm Tóc Tại Nhà, Tone Nâu Tây Tôn Da",
     "category": "FMCG",
     "brand": "NEZHA VN",
@@ -1830,7 +1740,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 123,
+    "id": 117,
     "title": "MUA 10 TẶNG 10_ Thùng 10 Gói Lamy 100 tờ Tặng 10 Gói 20 tờ Cho Bé Không Mùi (1 ĐƠN 1 QUÀ)",
     "category": "Lifestyle",
     "brand": "TỔNG KHO LAMY OFFICIAL",
@@ -1845,7 +1755,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 124,
+    "id": 118,
     "title": "Máy Thổi Phản Lực Không Dây Siêu Mạnh Dùng Pin, Quạt Thổi Turbofan Thổi Bụi Chân Pin Phổ Thông Makita, Tiện Lợi, Rễ Dùng",
     "category": "Lifestyle",
     "brand": "Hưng Thịnh Store 79",
@@ -1860,7 +1770,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 125,
+    "id": 119,
     "title": "Sách - Tư Duy Nhanh Và Chậm - Sách Về Trí Tuệ Con Người (Thinking fast and slow - Daniel Kahneman)",
     "category": "Lifestyle",
     "brand": "Alpha Books Official",
@@ -1875,7 +1785,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 126,
+    "id": 120,
     "title": "combo 30 Mặt nạ dưỡng ẩm mặt nạ giấy B5 Niacinamide 5% EGF mặt nạ dưỡng trắng da cấp ẩm phục hồi trắng da BEL.V EFG Mask",
     "category": "FMCG",
     "brand": "Luminous Mask Beauty",
@@ -1890,7 +1800,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 127,
+    "id": 121,
     "title": "【Hạt xếp hình 2.6mm Bộ bổ sung】24000 hạt cao cấp nhẵn mịn không tì vết - 240g kèm hộp đựng DIY",
     "category": "FMCG",
     "brand": "sun_flower_a1",
@@ -1905,7 +1815,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 128,
+    "id": 122,
     "title": "Máy sấy tóc Misuma 2 chiều nóng lạnh công suất lớn 2300W nhanh khô tóc, 3 chế độ sấy chăm sóc tóc chuẩn salon",
     "category": "ELHA",
     "brand": "Misuma Store01",
@@ -1920,7 +1830,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 129,
+    "id": 123,
     "title": "LOA BLUETOOTH X TRE.ME 3. Siêu Bass Nghe Nhạc Hay Bass Trầm Dùng Được Usb Thẻ Nhớ",
     "category": "ELHA",
     "brand": "ZUIZUI TECHZONE",
@@ -1935,7 +1845,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 130,
+    "id": 124,
     "title": "Áo Khoác Hoodie Zip Aastu Thêu Cờ Mỹ Form Rộng Boxy Chất Nỉ Chân Cua Thêu Xù Hình Lá Cờ Cực Xịn Hot Trend",
     "category": "Fashion",
     "brand": "Minglouis_Luxury",
@@ -1950,7 +1860,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 131,
+    "id": 125,
     "title": "Gel Bôi Trơn Quan Hệ Trắng Đục Heihun 400ml –Siêu Trơn, Lâu Khô, Cấp Ẩm, Massage Mượt Mà, Chính Hãng",
     "category": "FMCG",
     "brand": "HEIHUN PLEASURE",
@@ -1965,7 +1875,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 132,
+    "id": 126,
     "title": "Áo Len Sweater Cổ Khóa logo thêu Ngựa, Áo Len thêu ngựa siêu Hot hit 2024 Chất Len vặn thừng cao cấp 2025",
     "category": "Fashion",
     "brand": "Minglouis_Luxury",
@@ -1980,7 +1890,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 133,
+    "id": 127,
     "title": "Gel Bôi Trơn Quan Hệ Trắng Đục Heihun 400ml –Siêu Trơn, Lâu Khô, Cấp Ẩm, Massage Mượt Mà, Chính Hãng",
     "category": "FMCG",
     "brand": "HEIHUN PLEASURE",
@@ -1995,7 +1905,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 134,
+    "id": 128,
     "title": "[NÂU SẪM] Dầu Gội Nhuộm Thảo Dược Phủ Bạc NEZHA 400ml, Nhuộm Tóc Tại Nhà, Tone Nâu Tây Tự Nhiên",
     "category": "FMCG",
     "brand": "NEZHA VN",
@@ -2010,7 +1920,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 135,
+    "id": 129,
     "title": "【Hạt xếp hình 2.6mm Bộ bổ sung】24000 hạt cao cấp nhẵn mịn không tì vết - 240g kèm hộp đựng DIY",
     "category": "FMCG",
     "brand": "sun_flower_a1",
@@ -2025,7 +1935,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 136,
+    "id": 130,
     "title": "Giày tây công sở nam cao cấp - da bò nhập khẩu G11 êm chân mềm mại sang trọng rất dễ đi lại bảo hành 12 tháng",
     "category": "Fashion",
     "brand": "BE CLASSY_STORE",
@@ -2040,7 +1950,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 137,
+    "id": 131,
     "title": "Áo Sơ Mi Nam Nữ UNISEX Oxford Sọc Xám Đen Họa Tiết Chữ Ký Chuôt Trắng Chất Liệu Lanh UMI Mềm Thoáng Mát Form Áo Dày Dặn",
     "category": "Fashion",
     "brand": "Minglouis_Luxury",
@@ -2055,7 +1965,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 138,
+    "id": 132,
     "title": "Giày Da Lười Nam Tăng Chiều cao đế khâu  4cm G55  mềm mại dễ sử dụng kiểu dáng đơn giản bảo hành 12 tháng",
     "category": "Fashion",
     "brand": "BE CLASSY_STORE",
@@ -2070,7 +1980,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 139,
+    "id": 133,
     "title": "(COMBO)5 Bột Canh Nấm Bào Ngư Royal Cao Cấp, Không Mì Chính ,Thuần Chay, Tốt Cho Sức Khỏe | Túi 200g",
     "category": "FMCG",
     "brand": "DeepSeek",
@@ -2085,7 +1995,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 140,
+    "id": 134,
     "title": "Gel Bôi Trơn Quan Hệ Trắng Đục Heihun 400ml –Siêu Trơn, Lâu Khô, Cấp Ẩm, Massage Mượt Mà, Chính Hãng",
     "category": "FMCG",
     "brand": "HEIHUN PLEASURE",
@@ -2100,7 +2010,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 141,
+    "id": 135,
     "title": "Gel Bôi Trơn Mini 60ML Hiehun – Trắng Đục, Trơn Mượt Hơn – Nhỏ Gọn Tiện Lợi Mang Đi [Combo 2]",
     "category": "FMCG",
     "brand": "HEIHUN PLEASURE",
@@ -2115,7 +2025,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 142,
+    "id": 136,
     "title": "[Combo Bình Ổn Giá] 4 Muối Biển Nhạt Royal NSC ( Cao Cấp) , Tốt Cho Bé Ăn Dặm, Mắc Tiểu Đường, Huyết Áp -250g x4 NSC",
     "category": "FMCG",
     "brand": "Bán Muối Nuôi Mèo",
@@ -2130,7 +2040,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 143,
+    "id": 137,
     "title": "Men sống Bạch Mai Men vi sinh cho bé tiêu hóa khỏe trẻ hết Tiêu chảy Táo bón với 3 chủng lợi khuẩn",
     "category": "FMCG",
     "brand": "Đỗ Gia Pharma",
@@ -2145,7 +2055,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 144,
+    "id": 138,
     "title": "[MUA 3 TẶNG 1] Combo 3 Túi Nước Giặt Nezha Hương Nước Hoa, Giặt Tay/Máy, Lưu Hương 24H",
     "category": "FMCG",
     "brand": "NEZHA VN",
@@ -2160,7 +2070,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 145,
+    "id": 139,
     "title": "Giày Da Nam Da Bò Thật Đế Cao Su Nguyên Khối Cao 5 cm Lịch Lãm Phong Cách Bảo Hành 1 Năm",
     "category": "Fashion",
     "brand": "XƯỞNG GIÀY DA HẢI DƯƠNG",
@@ -2175,7 +2085,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 146,
+    "id": 140,
     "title": "MeO Sweet Lips son kem lỏng thuần chay không chì, bền màu cả ngày, kết cấu mịn lì, mang lại cảm giác căng mọng 5g",
     "category": "FMCG",
     "brand": "MeO Cosmetic Beauty",
@@ -2190,7 +2100,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 147,
+    "id": 141,
     "title": "Son kem thuần chay MeO Sweet Lips MeO Cosmetic chất son dạng kem mềm môi bền màu dịu nhẹ, an toàn và lành tính 5g",
     "category": "FMCG",
     "brand": "MeO Cosmetic Beauty",
@@ -2205,7 +2115,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 148,
+    "id": 142,
     "title": "[MUA 1 TẶNG 2] Dưỡng Thể Dầu Trắng Da Mờ Thâm Giảm Rạn Chứa BHA Hương Nước Hoa",
     "category": "FMCG",
     "brand": "eHerb Việt Nam",
@@ -2220,7 +2130,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 149,
+    "id": 143,
     "title": "(COMBO) 5 Muối Tắm Epsom [NSC] , Tẩy Tế Bào Chết, Giảm Đau Mỏi, Ngâm Chân Spa Tại Nhà | Túi 200gr",
     "category": "FMCG",
     "brand": "DeepSeek",
@@ -2235,22 +2145,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 150,
-    "title": "[NÂU SẪM] Dầu Gội Nhuộm Thảo Dược Phủ Bạc NEZHA 400ml, Nhuộm Tóc Tại Nhà, Tone Nâu Tây Tự Nhiên",
-    "category": "FMCG",
-    "brand": "NEZHA VN",
-    "image": "https://cf.shopee.vn/file/sg-11134201-8262s-mjyztk5eyeirab",
-    "oldPrice": 240000,
-    "newPrice": 158000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -22%",
-    "affiliateUrl": "https://shopee.vn/product/1609976842/52505381906",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 151,
+    "id": 144,
     "title": "Áo Khoác Bomber Nam Rap Lau Ren Siêu Đẹp - Áo Khoác Zip Thêu Ngựa Chất Nỉ Cao CấpThời Trang Unisex-ROBIG",
     "category": "Fashion",
     "brand": "ROBIG_Shop",
@@ -2265,7 +2160,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 152,
+    "id": 145,
     "title": "Sữa rửa mặt dạng bọt cấp ẩm chuyên sâu Asnami SO Cleansing Foam 150ml",
     "category": "FMCG",
     "brand": "Asnami",
@@ -2280,7 +2175,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 153,
+    "id": 146,
     "title": "Toner dạng sữa cấp ẩm chuyên sâu, làm dịu & phục hồi da Asnami SO Moisture Milk 100ml",
     "category": "FMCG",
     "brand": "Asnami",
@@ -2295,7 +2190,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 154,
+    "id": 147,
     "title": "Sữa rửa mặt cấp ẩm, sạch sâu & dịu nhẹ Asnami SO Moisture Cleanser 100g",
     "category": "FMCG",
     "brand": "Asnami",
@@ -2310,7 +2205,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 155,
+    "id": 148,
     "title": "Giày Da Lười Da Bò  Đế Khâu Cao 3 cm  Giày Lười Nam  Đẹp G66 Trẻ Trung Bảo Hành 12 tháng",
     "category": "Fashion",
     "brand": "XƯỞNG GIÀY DA XUÂN KHOA",
@@ -2325,7 +2220,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 156,
+    "id": 149,
     "title": "Bình Xịt Aibio Tiêu Diệt Ruồi, Nhặng Xanh, Gián Hiệu Quả, Không Mùi, An Toàn - Chai 530ml",
     "category": "Lifestyle",
     "brand": "Dr.Natro - Siêu Tẩy Đa Năng",
@@ -2340,7 +2235,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 157,
+    "id": 150,
     "title": "[MUA 1 TẶNG 1 FULL] Dầu Dưỡng Giảm Thâm MOAW MOAWS - Mềm Da, Giảm Chai Sần Với BHA & Dầu Tự Nhiên",
     "category": "FMCG",
     "brand": "Moaw Moaws Việt Nam",
@@ -2355,7 +2250,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 158,
+    "id": 151,
     "title": "[LAMY OFFICIAL]_Thùng 10 gói khăn ướt Lamy 80 tờ cao cấp không mùi an toàn cho bé",
     "category": "Lifestyle",
     "brand": "TỔNG KHO LAMY OFFICIAL",
@@ -2370,7 +2265,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 159,
+    "id": 152,
     "title": "Nước Tẩy Trang Bioderma H2O, Tẩy Trang Bio Chính Hãng Cho Da Dầu Mụn, Da Nhạy Cảm 500ml",
     "category": "FMCG",
     "brand": "BiniShop.store",
@@ -2385,7 +2280,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 160,
+    "id": 153,
     "title": "PICKME CARE FAMILY_Thùng 10 gói khăn ướt cho bé Lamy gói 100 tờ không mùi không paraben",
     "category": "FMCG",
     "brand": "Pickme Care Family",
@@ -2400,7 +2295,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 161,
+    "id": 154,
     "title": "[LAMY OFFICIAL]_Thùng 10 gói khăn ướt Lamy gói 100 tờ không mùi An Toàn Cho Da",
     "category": "Lifestyle",
     "brand": "TỔNG KHO LAMY OFFICIAL",
@@ -2415,7 +2310,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 162,
+    "id": 155,
     "title": "Thùng 10 gói khăn ướt Lamy HomeCare không cồn không parabens cao cấp dành cho em bé gói 80 tờ",
     "category": "FMCG",
     "brand": "Lamy Homecare",
@@ -2430,22 +2325,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 163,
-    "title": "Ấm đun nước siêu tốc Inox 1.8 Lít Electric Kettle chính hãng, sôi nhanh tự ngắt",
-    "category": "FMCG",
-    "brand": "GIA DỤNG GIÁ RẺ QPC",
-    "image": "https://cf.shopee.vn/file/vn-11134207-820l4-mg0umc2lh8215c",
-    "oldPrice": 179000,
-    "newPrice": 118000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -22%",
-    "affiliateUrl": "https://shopee.vn/product/1365706261/29062193808",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 164,
+    "id": 156,
     "title": "TỔNG KHO_Thùng 10 gói khăn ướt Lamy không cồn không parabens cao cấp dành cho em bé gói 100 tờ",
     "category": "FMCG",
     "brand": "TỔNG KHO LAMY HCM",
@@ -2460,7 +2340,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 165,
+    "id": 157,
     "title": "Thùng 10 gói khăn ướt Lamy gói 80 tờ không mùi cho gia đình",
     "category": "FMCG",
     "brand": "ECOBI OFFICIAL STORE",
@@ -2475,7 +2355,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 166,
+    "id": 158,
     "title": "Sữa Rửa Mặt COSRX Cocolux Dạng Gel Chiết Xuất Tràm Trà 150ml Pink Cosmetics Store",
     "category": "FMCG",
     "brand": "EarleanBeauty Mỹ Phẩm",
@@ -2490,7 +2370,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 167,
+    "id": 159,
     "title": "Chai xịt vệ sinh nội thất xe ô tô FOCAR INTERIOR CLEANER từ Đức giúp làm sạch sâu vết ố bẩn bảo vệ đồ da nhựa",
     "category": "Lifestyle",
     "brand": "Auto Care Luxury",
@@ -2505,7 +2385,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 168,
+    "id": 160,
     "title": "Chân Kê Máy Giặt, Tủ Lạnh,Kệ Kê Chân Tủ Lạnh, Máy Giặt Có Bánh Xe Tiện Dụng - Giá Đỡ Đa Năng",
     "category": "Lifestyle",
     "brand": "Ngọc hân đồ gia dụng tổng hợp",
@@ -2520,7 +2400,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 169,
+    "id": 161,
     "title": "Combo 3 hũ thuỷ tinh sọc / bộ 3 hũ sọc dung tích 650ml , 1250ml , 2200ml đựng gia vị , muối dưa cà , đựng đồ khô",
     "category": "Lifestyle",
     "brand": "Kho sỉ Nguyên Vũ",
@@ -2535,7 +2415,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 170,
+    "id": 162,
     "title": "Thùng 10 gói khăn ướt Lamy HomeCare không cồn không parabens cao cấp dành cho em bé gói 100 tờ",
     "category": "FMCG",
     "brand": "Lamy Homecare",
@@ -2550,7 +2430,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 171,
+    "id": 163,
     "title": "MUA 10 TẶNG 10_ Thùng 10 gói khăn ướt Lamy 100 tờ + 10 gói khăn ướt Lamy 20 tờ (1 đơn 1 quà)",
     "category": "FMCG",
     "brand": "ECOBI OFFICIAL STORE",
@@ -2565,7 +2445,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 172,
+    "id": 164,
     "title": "Đèn bắt muỗi-máy bắt muỗi diệt côn trùng thông minh kiêm đèn ngủ có cổng sạc USB",
     "category": "Lifestyle",
     "brand": "GIA DỤNG GREEN HOME",
@@ -2580,7 +2460,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 173,
+    "id": 165,
     "title": "Nước Tẩy Trang Bioderma H2O, Tẩy Trang Bio Chính Hãng Cho Da Dầu Mụn Và Da Nhạy Cảm 500ml",
     "category": "FMCG",
     "brand": "Oliviashope2025",
@@ -2595,7 +2475,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 174,
+    "id": 166,
     "title": "Dụng Cụ Chống Đẩy Hít Đất Parallettes Tập Cơ Ngực, Planche, Handstand, Hướng Dẫn Tập Calisthenics, Gym- Mỹ Nghệ nhà Thóc",
     "category": "Fashion",
     "brand": "Mynghenhathoc.01",
@@ -2610,7 +2490,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 175,
+    "id": 167,
     "title": "Tinh Chất (Serum) Dưỡng Mắt Dạng Lăn Giảm Thâm Bọng Mắt, Giảm Nếp Nhăn Chiết Xuất Hạt Diêm Mạch SKINLAX 10ml",
     "category": "FMCG",
     "brand": "Skinlax - Gian Hàng Chính Hãng",
@@ -2625,7 +2505,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 176,
+    "id": 168,
     "title": "Combo 100 túi zíp bạc trữ thực phẩm đa năng nóng lạnh, Đủ kích thước",
     "category": "Lifestyle",
     "brand": "KHO GIA ĐÌNH",
@@ -2640,7 +2520,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 177,
+    "id": 169,
     "title": "Sét bộ áo khoác nỉ hoodie in họa tiết số kèm quần suông trơn basic chất liệu nỉ bông phong cách trẻ trung",
     "category": "Fashion",
     "brand": "Yuna_Boutique",
@@ -2655,7 +2535,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 178,
+    "id": 170,
     "title": "Nước tẩy rỉ sét, Xịt tẩy rỉ sét, Tẩy rỉ kim loại - Tẩy Sạch Rỉ Sét Trên Vật Liệu Xây Dựng, Sắt Thép, Giảm Thiểu Quá Trìn",
     "category": "Lifestyle",
     "brand": "iclean VN",
@@ -2670,7 +2550,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 179,
+    "id": 171,
     "title": "Tinh Dầu Massage Yoni Tăng Cảm Giác Yêu Thương Cho Cặp đôi - Làm Hồng Nhu Hoa & Se K..hi ...t Vk",
     "category": "FMCG",
     "brand": "oilmassage",
@@ -2685,7 +2565,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 180,
+    "id": 172,
     "title": "Áo Khoác Hoodie Zip Boxy Chữ Thêu Lưng Nổi MON STUDIO Fofm Dáng Rộng, Cổ Có Nút Bấm Chất Nỉ Bong Dày Dặn New 2026",
     "category": "Fashion",
     "brand": "MONA_Studio",
@@ -2700,7 +2580,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 181,
+    "id": 173,
     "title": "Bàn Để Ủi - Cầu Là Quần Áo Điều Chỉnh 5 Cấp Độ (Giao Màu Ngẫu Nhiên) . Đức Nhung Store",
     "category": "Others",
     "brand": "Đức Nhung Store",
@@ -2715,7 +2595,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 182,
+    "id": 174,
     "title": "TẶNG MÓC TREO_Thùng 04 túi khăn vải rút khô đa năng Lamy túi 200 tờ không mùi",
     "category": "FMCG",
     "brand": "ECOBI OFFICIAL STORE",
@@ -2730,7 +2610,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 183,
+    "id": 175,
     "title": "Nước Hoa California Dream chiết 10ml",
     "category": "FMCG",
     "brand": "NƯỚC HOA CHIẾT QH",
@@ -2745,7 +2625,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 184,
+    "id": 176,
     "title": "Bộ Cộc Hè Nam Nữ Họa tiết Logo Đơn giản trẻ trung Đơn giản- Bộ Quần Áo Nam Nữ Cao Cấp",
     "category": "Fashion",
     "brand": "KING MAN STOREs",
@@ -2760,7 +2640,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 185,
+    "id": 177,
     "title": "30 M mặt nạ nhau thai cừu mặt nạ dưỡng ẩm mặt nạ giấy b5 collagen mặt nạ dưỡng trắng da cấp ẩm phục hồi Rwine Beauty",
     "category": "FMCG",
     "brand": "Luminous Mask Beauty",
@@ -2775,7 +2655,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 186,
+    "id": 178,
     "title": "Kem Dưỡng Trắng Da Bạch Ngọc Liên - Body Whitening Cream 90g, kem body sáng da, mờ thâm, nám",
     "category": "FMCG",
     "brand": "AN NINH SHOP",
@@ -2790,7 +2670,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 187,
+    "id": 179,
     "title": "[LAMY OFFICIAL]_Thùng 10 gói khăn ướt Lamy gói 100 tờ không mùi An Toàn Cho Da Trẻ Em",
     "category": "Lifestyle",
     "brand": "TỔNG KHO LAMY OFFICIAL",
@@ -2805,7 +2685,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 188,
+    "id": 180,
     "title": "(COMBO 2 CAN) Nước Giặt Hygenci Plus Hàng Việt Nam Công Nghệ 3D Thái Lan Can 2kg !",
     "category": "Lifestyle",
     "brand": "HYGIEN STORE JSC",
@@ -2820,7 +2700,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 189,
+    "id": 181,
     "title": "Nước rửa xe bọt tuyết Focar 4 lít vệ sinh ô tô xe máy làm sạch sâu siêu tạo bọt rửa xe nhanh tăng độ bóng cho sơn xe",
     "category": "Lifestyle",
     "brand": "Auto Care Luxury",
@@ -2835,7 +2715,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 190,
+    "id": 182,
     "title": "Máy hơ gel SUN 5 UV/LED tem xanh 48W 24 bóng đèn - Máy hơ móng mini dành cho học viên Nailbnd",
     "category": "FMCG",
     "brand": "Nail BND Star",
@@ -2850,7 +2730,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 191,
+    "id": 183,
     "title": "TỔNG KHO_Thùng 10 Gói Khăn Ướt Cho Bé Lamy 100 Tờ Không Mùi Không Cồn Không Chất Tẩy Trắng",
     "category": "FMCG",
     "brand": "TỔNG KHO LAMY HCM",
@@ -2865,7 +2745,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 192,
+    "id": 184,
     "title": "Nước Tẩy Trang Bioderma Crealine H2O 500ml ,Tẩy Trang Bio Quốc Dân Dành Cho Mọi Loại Da",
     "category": "FMCG",
     "brand": "BiniShop.store",
@@ -2880,7 +2760,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 193,
+    "id": 185,
     "title": "Nạo Rau Củ Quả Hai Lưỡi Cao Cấp Thép Không Gỉ Thương Hiệu KICHIN - NK02",
     "category": "Lifestyle",
     "brand": "GIA DỤNG KICHIN SHOP",
@@ -2895,7 +2775,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 194,
+    "id": 186,
     "title": "KHO PHÚ NHUẬN_Thùng 10 gói khăn ướt Lamy không cồn không parabens gói 80 tờ cao cấp dành cho em bé",
     "category": "FMCG",
     "brand": "HERMOSO PREMIUM STORE",
@@ -2910,7 +2790,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 195,
+    "id": 187,
     "title": "Áo khoác Gió bomber Gió In Họa Tiết Hình Miệng Cá Mập Siêu Đẹp Dành Cho cả Nam và Nữ Hottrend 2025 [G09]",
     "category": "Fashion",
     "brand": "Áo Xinh 17",
@@ -2925,7 +2805,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 196,
+    "id": 188,
     "title": "Loa Di Động Bluetooth J/B/L Go/3，Ngoài trời, Chống nước,Âm lượng siêu lớn",
     "category": "ELHA",
     "brand": "XI MUOI SHOP",
@@ -2940,7 +2820,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 197,
+    "id": 189,
     "title": "Combo Giảm Thâm Mắt, Giảm Thâm Bọng Mắt, Giảm Nếp Nhăn 2 Bước SKINLAX",
     "category": "FMCG",
     "brand": "Skinlax - Gian Hàng Chính Hãng",
@@ -2955,7 +2835,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 198,
+    "id": 190,
     "title": "Áo Thô Mix Ren 2 Dây Chiết Eo Dây Thắt Nơ 2 Dây Chiết Eo SIÊU XINH Cho Các Nàng H16",
     "category": "Fashion",
     "brand": "aichii_store17",
@@ -2970,7 +2850,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 199,
+    "id": 191,
     "title": "[MUA 1 TẶNG 1] Nước Hoa MOAW MOAWS Sunkissed 10ml - Dầu Thơm Quyến Rũ, Lưu Hương 6h",
     "category": "FMCG",
     "brand": "Moaw Moaws Việt Nam",
@@ -2985,7 +2865,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 200,
+    "id": 192,
     "title": "TẶNG MÓC TREO_Thùng 02 túi khăn vải rút khô đa năng Lamy túi 200 tờ không mùi",
     "category": "FMCG",
     "brand": "ECOBI OFFICIAL STORE",
@@ -3000,7 +2880,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 201,
+    "id": 193,
     "title": "Bộ Quần Aó ADS Cộc Thoáng Mát Mùa Hè Cực Năng Động Phù Hợp Với Gioi Trẻ_Aó AD.S Cộc S2",
     "category": "Fashion",
     "brand": "Thời Trang Unisex Hải Đăng",
@@ -3015,7 +2895,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 202,
+    "id": 194,
     "title": "Combo 2 bước vệ sinh và dưỡng nội thất ô tô tại nhà FOCAR làm sạch hiệu quả nâng cao tuổi thọ nội thất xe sạch và bóng",
     "category": "Lifestyle",
     "brand": "Auto Care Luxury",
@@ -3030,7 +2910,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 203,
+    "id": 195,
     "title": "[MUA 1 TẶNG 1] Tẩy Tế Bào Chết - Tẩy Da Chết Sữa Gạo Hạnh Nhân - Trắng Sáng Da - Mịn Da Sau 1 Lần",
     "category": "FMCG",
     "brand": "Moaw Moaws Việt Nam",
@@ -3045,18 +2925,138 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 204,
-    "title": "Giày tây nam da bò đế kếp hàng cao cấp da bò thật 100% mềm mại kết hợp đế kếp sịn chống trơn trượt G 10 bảo hành 1 năm",
-    "category": "Fashion",
-    "brand": "BE CLASSY_STORE",
-    "image": "https://cf.shopee.vn/file/vn-11134207-7ra0g-m7j0u7b4u7ub95",
-    "oldPrice": 530000,
-    "newPrice": 291500,
+    "id": 196,
+    "title": "Sách Lẻ/Combo Hackers TOEIC: VOCABULARY + READING + LISTENING - Ôn Luyện TOEIC Hiệu Quả Mỗi Ngày",
+    "category": "Lifestyle",
+    "brand": "Alpha Books Official",
+    "image": "https://cf.shopee.vn/file/sg-11134201-82608-mm16zwqtejnsdf",
+    "oldPrice": 279000,
+    "newPrice": 195300,
     "sold": 0,
     "stockPercent": 0,
     "isHot": true,
     "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/639672801/25218171151",
+    "affiliateUrl": "https://shopee.vn/product/44665496/19833259836",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 197,
+    "title": "Mắt Kính GM Nam Nữ Form To – Kính Cận Thời Trang Cao Cấp Bản Lề 5 Chân DORIS",
+    "category": "Fashion",
+    "brand": "Doris Eyewear",
+    "image": "https://cf.shopee.vn/file/vn-11134207-820l4-mjcpz6ssd5a900",
+    "oldPrice": 400000,
+    "newPrice": 279000,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/product/382835540/16161523107",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 198,
+    "title": "Body mist nhũ Gone Bad mùi phấn em bé ngọt ngào cá tính cho nữ BODYMISS đi hẹn hò đi chơi",
+    "category": "FMCG",
+    "brand": "eherbvietnam",
+    "image": "https://cf.shopee.vn/file/vn-11134207-81ztc-mkeqkhcsarye1c",
+    "oldPrice": 256000,
+    "newPrice": 167000,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/product/831509831/51955917819",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 199,
+    "title": "Áo thun nữ Myn cổ vuông tay ngắn dáng trơn form vừa ôm body vải cotton CAO CẤP màu trắng đen MD24.02",
+    "category": "Fashion",
+    "brand": "Myn's Dresser",
+    "image": "https://cf.shopee.vn/file/vn-11134207-7ra0g-ma6n3oco8fqg84",
+    "oldPrice": 209000,
+    "newPrice": 125000,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/product/1192245906/25868759629",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 200,
+    "title": "Thùng 10 gói khăn ướt Lamy HomeCare gói 80 tờ không cồn không parabens cao cấp dành cho em bé",
+    "category": "FMCG",
+    "brand": "Lamy Homecare",
+    "image": "https://cf.shopee.vn/file/vn-11134207-7ras8-matkyitwgedd92",
+    "oldPrice": 245000,
+    "newPrice": 165000,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/product/1173351415/42202948218",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 201,
+    "title": "Sách - TÂM LÝ HỌC THÀNH CÔNG - Mindset: The new Psychology Of Success (Alpha Books)",
+    "category": "Lifestyle",
+    "brand": "Gamma Books",
+    "image": "https://cf.shopee.vn/file/vn-11134207-7ra0g-m6p4crc7r0484f",
+    "oldPrice": 199000,
+    "newPrice": 139300,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/product/230608567/15036341172",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 202,
+    "title": "bộ quần áo nam cộc tay thêu ngựa chữ xù cổ tròn siêu sang đơn giản",
+    "category": "Fashion",
+    "brand": "Thời Trang Unisex Hải Đăng",
+    "image": "https://cf.shopee.vn/file/vn-11134207-7ra0g-mahsycg2fufrdd",
+    "oldPrice": 450000,
+    "newPrice": 243000,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/product/293954019/26037342044",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 203,
+    "title": "KHO PHÚ NHUẬN_Thùng 10 gói khăn ướt Lamy không cồn không parabens gói 100 tờ cao cấp dành cho em bé",
+    "category": "FMCG",
+    "brand": "HERMOSO PREMIUM STORE",
+    "image": "https://cf.shopee.vn/file/vn-11134207-7ra0g-m8nfsafb9ojm68",
+    "oldPrice": 269000,
+    "newPrice": 185000,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/product/1173356222/24576517036",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 204,
+    "title": "Phân Bón Sinh Học KA GREEN LIQUID KAGRI Dạng Gel 1L – Kích Rễ Mạnh, Bung Đọt, Dày Lá, Cải Tạo Đất",
+    "category": "Lifestyle",
+    "brand": "Phân bón KAGRI Việt Nam",
+    "image": "https://cf.shopee.vn/file/vn-11134201-81ztc-mllj04ix4v7s94",
+    "oldPrice": 560000,
+    "newPrice": 370000,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/product/1417450060/24589291020",
     "tag": "Flash Sale"
   },
   {
@@ -3076,171 +3076,6 @@
   },
   {
     "id": 206,
-    "title": "[MUA 1 TẶNG 1] Tẩy Tế Bào Chết - Tẩy Da Chết Sữa Gạo Hạnh Nhân - Trắng Sáng Da - Mịn Da Sau 1 Lần",
-    "category": "FMCG",
-    "brand": "Moaw Moaws Việt Nam",
-    "image": "https://cf.shopee.vn/file/vn-11134207-81ztc-mk1vtm8037d0c3",
-    "oldPrice": 449000,
-    "newPrice": 261000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/1017289279/41218338936",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 207,
-    "title": "Mắt Kính GM Nam Nữ Form To – Kính Cận Thời Trang Cao Cấp Bản Lề 5 Chân DORIS",
-    "category": "Fashion",
-    "brand": "Doris Eyewear",
-    "image": "https://cf.shopee.vn/file/vn-11134207-820l4-mjcpz6ssd5a900",
-    "oldPrice": 400000,
-    "newPrice": 279000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/382835540/16161523107",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 208,
-    "title": "Body mist nhũ Gone Bad mùi phấn em bé ngọt ngào cá tính cho nữ BODYMISS đi hẹn hò đi chơi",
-    "category": "FMCG",
-    "brand": "eherbvietnam",
-    "image": "https://cf.shopee.vn/file/vn-11134207-81ztc-mkeqkhcsarye1c",
-    "oldPrice": 256000,
-    "newPrice": 167000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/831509831/51955917819",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 209,
-    "title": "Áo thun nữ Myn cổ vuông tay ngắn dáng trơn form vừa ôm body vải cotton CAO CẤP màu trắng đen MD24.02",
-    "category": "Fashion",
-    "brand": "Myn's Dresser",
-    "image": "https://cf.shopee.vn/file/vn-11134207-7ra0g-ma6n3oco8fqg84",
-    "oldPrice": 209000,
-    "newPrice": 125000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/1192245906/25868759629",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 210,
-    "title": "Thùng 10 gói khăn ướt Lamy HomeCare gói 80 tờ không cồn không parabens cao cấp dành cho em bé",
-    "category": "FMCG",
-    "brand": "Lamy Homecare",
-    "image": "https://cf.shopee.vn/file/vn-11134207-7ras8-matkyitwgedd92",
-    "oldPrice": 245000,
-    "newPrice": 165000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/1173351415/42202948218",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 211,
-    "title": "Sách - TÂM LÝ HỌC THÀNH CÔNG - Mindset: The new Psychology Of Success (Alpha Books)",
-    "category": "Lifestyle",
-    "brand": "Gamma Books",
-    "image": "https://cf.shopee.vn/file/vn-11134207-7ra0g-m6p4crc7r0484f",
-    "oldPrice": 199000,
-    "newPrice": 139300,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/230608567/15036341172",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 212,
-    "title": "bộ quần áo nam cộc tay thêu ngựa chữ xù cổ tròn siêu sang đơn giản",
-    "category": "Fashion",
-    "brand": "Thời Trang Unisex Hải Đăng",
-    "image": "https://cf.shopee.vn/file/vn-11134207-7ra0g-mahsycg2fufrdd",
-    "oldPrice": 450000,
-    "newPrice": 243000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/293954019/26037342044",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 213,
-    "title": "KHO PHÚ NHUẬN_Thùng 10 gói khăn ướt Lamy không cồn không parabens gói 100 tờ cao cấp dành cho em bé",
-    "category": "FMCG",
-    "brand": "HERMOSO PREMIUM STORE",
-    "image": "https://cf.shopee.vn/file/vn-11134207-7ra0g-m8nfsafb9ojm68",
-    "oldPrice": 269000,
-    "newPrice": 185000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/1173356222/24576517036",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 214,
-    "title": "Phân Bón Sinh Học KA GREEN LIQUID KAGRI Dạng Gel 1L – Kích Rễ Mạnh, Bung Đọt, Dày Lá, Cải Tạo Đất",
-    "category": "Lifestyle",
-    "brand": "Phân bón KAGRI Việt Nam",
-    "image": "https://cf.shopee.vn/file/vn-11134201-81ztc-mllj04ix4v7s94",
-    "oldPrice": 560000,
-    "newPrice": 370000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/1417450060/24589291020",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 215,
-    "title": "Giày tây nam da bò đế kếp hàng cao cấp da bò thật 100% mềm mại kết hợp đế kếp sịn chống trơn trượt G 10 bảo hành 1 năm",
-    "category": "Fashion",
-    "brand": "BE CLASSY_STORE",
-    "image": "https://cf.shopee.vn/file/vn-11134207-7ra0g-m7j0u7b4u7ub95",
-    "oldPrice": 530000,
-    "newPrice": 291500,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/639672801/25218171151",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 216,
-    "title": "Sách Lẻ/Combo Hackers TOEIC: VOCABULARY + READING + LISTENING - Ôn Luyện TOEIC Hiệu Quả Mỗi Ngày",
-    "category": "Lifestyle",
-    "brand": "Alpha Books Official",
-    "image": "https://cf.shopee.vn/file/sg-11134201-82608-mm16zwqtejnsdf",
-    "oldPrice": 279000,
-    "newPrice": 195300,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/44665496/19833259836",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 217,
     "title": "[MUA 1 TẶNG 2] Gel Tẩy Tế Bào Chết Body AHA/BHA MOAW MOAWS - Hạt Massage Giúp Giảm Sần, Mềm Mịn Da",
     "category": "FMCG",
     "brand": "Moaw Moaws Việt Nam",
@@ -3255,22 +3090,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 218,
-    "title": "Giày tây nam da bò đế kếp hàng cao cấp da bò thật 100% mềm mại kết hợp đế kếp sịn chống trơn trượt G 10 bảo hành 1 năm",
-    "category": "Fashion",
-    "brand": "BE CLASSY_STORE",
-    "image": "https://cf.shopee.vn/file/vn-11134207-7ra0g-m7j0u7b4u7ub95",
-    "oldPrice": 530000,
-    "newPrice": 291500,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/639672801/25218171151",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 219,
+    "id": 207,
     "title": "Serum giảm mụn ICE LERSKIN 10ml – hỗ trợ loại bỏ mụn viêm và mụn đầu đen",
     "category": "CB",
     "brand": "ICE_LERSKIN",
@@ -3285,7 +3105,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 220,
+    "id": 208,
     "title": "Tinh Chất (Serum) Giảm Thâm Môi, Dưỡng Hồng Môi Dạng Lăn Giúp Dưỡng Ẩm, Môi Sáng Màu SKINLAX 10ml",
     "category": "FMCG",
     "brand": "Skinlax - Gian Hàng Chính Hãng",
@@ -3300,7 +3120,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 221,
+    "id": 209,
     "title": "Máy Massage Đầu Cổ MISUMA Scalp Massager Giải Toả Căng Thẳng, Mệt Mỏi Thư Giãn Gội Đầu Dưỡng Sinh",
     "category": "ELHA",
     "brand": "Misuma Mall",
@@ -3315,7 +3135,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 222,
+    "id": 210,
     "title": "𝗺𝗮𝗶𝗹𝘆_𝘇𝗵𝗮𝗻𝗴𝗰𝗵𝗼𝘂𝟭𝟲// Áo Bomber Ralp Laure Thêu Ngựa chất Cotton Nỉ Chân Cua Dày Dặn Form Âu Áo Khoác Mùa Đông",
     "category": "Lifestyle",
     "brand": "𝗺𝗮𝗶𝗹𝘆_𝘇𝗵𝗮𝗻𝗴𝗰𝗵𝗼u16",
@@ -3330,7 +3150,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 223,
+    "id": 211,
     "title": "Dầu Massage Yoni Toàn Thân Cho Nam Nữ Bôi trơn & Cải thiện cảm xúc Vợ Chồng - Tăng cảm giác được yêu thương - Oil",
     "category": "FMCG",
     "brand": "oilmassage",
@@ -3345,7 +3165,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 224,
+    "id": 212,
     "title": "Nước rửa xe không chạm Focar Cao Cấp phủ nano tạo hiệu ứng sáng bóng sau khi rửa loại bỏ hoàn toàn vết bẩn trên bề mặt",
     "category": "Lifestyle",
     "brand": "Auto Care Luxury",
@@ -3360,7 +3180,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 225,
+    "id": 213,
     "title": "Bộ quần áo cộc nam a.di.das phối kẻ viền ngang ngực cực chát,bộ hè nam a.di.das logo trước ngực cao cấp",
     "category": "Fashion",
     "brand": "Teen Fashion Stores",
@@ -3375,7 +3195,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 226,
+    "id": 214,
     "title": "Vợt Bắt Muỗi Kiêm Đèn Muỗi miLife B2 - Chống Muỗi 12 Tháng",
     "category": "Lifestyle",
     "brand": "Gia dụng nhà Gấu 86",
@@ -3390,22 +3210,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 227,
-    "title": "[CTY] Mặt nạ cá hồi JMSolution MIA COSMETICS dưỡng trắng cung cấp ẩm ngăn ngừa lão hoá phục hồi da 1H 5 Miếng",
-    "category": "FMCG",
-    "brand": "Mỹ phẩm MIA Cosmetics",
-    "image": "https://cf.shopee.vn/file/vn-11134207-820l4-mhvdafyo9fr42a",
-    "oldPrice": 255000,
-    "newPrice": 155000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/134453030/56502613994",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 228,
+    "id": 215,
     "title": "Váy ngủ sexy lụa SOOYA đầm mặc nhà gợi cảm quyến rũ kèm quần chip mềm mại N024",
     "category": "Fashion",
     "brand": "Sooya Lingerie Official Store",
@@ -3420,7 +3225,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 229,
+    "id": 216,
     "title": "(COMBO)5 Muối Hạt Sạch Xuất Khẩu Nhật Bản Nadi Salt, Bổ Sung Khoáng Chất, Muối Ngon Nhất Thế Giới * | Túi 1Kg",
     "category": "FMCG",
     "brand": "DeepSeek",
@@ -3435,7 +3240,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 230,
+    "id": 217,
     "title": "Áo Dài Tết Cho Mẹ Và Bé Chất Liệu Tằm Cao Cấp 2 Tà Mix Quần Cùng Chất Fom Xuông Tặng Kèm Bờm Nhún",
     "category": "Fashion",
     "brand": "Hello Kids 123",
@@ -3450,7 +3255,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 231,
+    "id": 218,
     "title": "Nước hoa nữ Nar Rodriguez Nar For Her EDP hương thơm  ngọt ngào , trong trẻo chiết 10ml 1995 PERFUME",
     "category": "FMCG",
     "brand": "1995 PERFUME AUTHENTIC",
@@ -3465,7 +3270,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 232,
+    "id": 219,
     "title": "Sơ Mi Nữ Dài Tay Hình Thêu Chữ Pep Chất Thô Mềm Kèm Khăn, Sơ Mi Kẻ Kiểu Nữ Dáng Rộng Hàn Quốc- zhangchou_clothes",
     "category": "Fashion",
     "brand": "zhangchou_clothes",
@@ -3480,22 +3285,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 233,
-    "title": "[CTY] Mặt nạ cá hồi JMSolution MIA COSMETICS dưỡng trắng cung cấp ẩm ngăn ngừa lão hoá phục hồi da 1H 5 Miếng",
-    "category": "FMCG",
-    "brand": "Mỹ phẩm MIA Cosmetics",
-    "image": "https://cf.shopee.vn/file/vn-11134207-820l4-mhvdafyo9fr42a",
-    "oldPrice": 255000,
-    "newPrice": 155000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/134453030/56502613994",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 234,
+    "id": 220,
     "title": "Khuyến Mãi Đặc Biệt – Mua 2 Tuýp Kem Đánh Răng làm trắng hương hoa nhài JASMEEN!Sản phẩm làm trắng răng an toàn,đem lại hơi thở thơm mát ,giảm tình trạng hôi miệng,ngăn ngừa vết ố vàng, dành cho mọi đối tượng ( 100g*2)",
     "category": "CB",
     "brand": "JASMEEN Toothpaste",
@@ -3510,7 +3300,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 235,
+    "id": 221,
     "title": "1KG Nhang Hương Bài 5SAO hương thơm mùi tết, nhang thảo mộc ít khói, không độc hại, không đậu tàn.",
     "category": "Lifestyle",
     "brand": "Xưởng Nhang Sạch _ 5SAO",
@@ -3525,7 +3315,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 236,
+    "id": 222,
     "title": "Máy Hàn Miệng Túi, Hút Chân Không Thực Phẩm, Đồ Dùng Dành Cho Gia Đình Siêu Tiện Lợi SNOWDOME APPLIANCES STORE",
     "category": "Lifestyle",
     "brand": "SNOWDOME APPLIANCES STORE",
@@ -3540,7 +3330,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 237,
+    "id": 223,
     "title": "Sách – Tâm Lý Học Thành Công – Carol S. Dweck (Alpha Books)",
     "category": "Lifestyle",
     "brand": "Alpha Books Official",
@@ -3555,7 +3345,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 238,
+    "id": 224,
     "title": "Bộ Dung Dịch Vệ Sinh Nữ Và Men Vi Sinh Phụ Khoa Lagumi Giúp Giảm Viêm Nấm Ngứa",
     "category": "FMCG",
     "brand": "Lagumi Official Store",
@@ -3570,7 +3360,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 239,
+    "id": 225,
     "title": "Bàn chải điện Sonic X7 dùng công nghệ rung sóng âm, bàn chải đánh răng tự động đánh tan mảng bám thế hệ mới nhất 2024",
     "category": "FMCG",
     "brand": "Đồ Gia Dụng Thế Hệ Mới",
@@ -3585,7 +3375,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 240,
+    "id": 226,
     "title": "[MUA 1 TẶNG 1] Mặt nạ ngủ dưỡng môi lipcerin MASUBE hỗ trợ giảm thâm môi, dưỡng môi căng bóng 15ml",
     "category": "FMCG",
     "brand": "eherbvietnam",
@@ -3600,7 +3390,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 241,
+    "id": 227,
     "title": "Đồ bộ thể thao nam in nổi chất vải dày dặn thoáng mát co dãn.bộ cộc thẻ thao nam nữ new 2024",
     "category": "Fashion",
     "brand": "Teen Fashion Stores",
@@ -3615,7 +3405,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 242,
+    "id": 228,
     "title": "Máy Hút Bụi Cầm Tay Không Dây DAMAS DA113C - Lực Hút Mạnh Mẽ - Thiết Kế Nhỏ Gọn - Hàng Chính Hãng",
     "category": "ELHA",
     "brand": "DAMAS HN Việt Nam",
@@ -3630,7 +3420,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 243,
+    "id": 229,
     "title": "Máy Hút Bụi Cầm Tay Chạy Pin MaKiTa Công Suất Lớn, Máy Hút Bụi Chạy Pin Chân Phổ Thông M21, Tiện Lợi, Rễ Sử Dụng",
     "category": "Lifestyle",
     "brand": "Hưng Thịnh Store 79",
@@ -3645,7 +3435,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 244,
+    "id": 230,
     "title": "Áo Thun Tay Dài Boxy Logo Hello kitty Áo Longsleev Unisex by ANDYSHOP",
     "category": "Fashion",
     "brand": "ANDY. SHOP",
@@ -3660,37 +3450,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 245,
-    "title": "TẶNG MÓC TREO_Thùng 02 túi khăn vải rút khô đa năng cao cấp EcoWipes 500gram không mùi",
-    "category": "FMCG",
-    "brand": "ECOBI OFFICIAL STORE",
-    "image": "https://cf.shopee.vn/file/vn-11134207-81ztc-mlbwj1j93b486a",
-    "oldPrice": 350000,
-    "newPrice": 205000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/988216132/27370897424",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 246,
-    "title": "TẶNG MÓC TREO_Thùng 02 túi khăn vải rút khô đa năng cao cấp EcoWipes 500gram không mùi",
-    "category": "FMCG",
-    "brand": "ECOBI OFFICIAL STORE",
-    "image": "https://cf.shopee.vn/file/vn-11134207-81ztc-mlbwj1j93b486a",
-    "oldPrice": 350000,
-    "newPrice": 205000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/988216132/27370897424",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 247,
+    "id": 231,
     "title": "Bộ quần áo thể thao addas in logo nổi trước ngực cực kì tinh tế chất liệu coton co dãn mát mẻ neww 2024",
     "category": "Fashion",
     "brand": "UNI Shop -áo polo chính hãng",
@@ -3705,22 +3465,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 248,
-    "title": "[ MUA 1 TẶNG 1 HEO NHỎ] Heo đất tiết kiệm, Heo đất Chuột Lang CAPYBARA size ĐẠI Cute mẫu hot 2024 - Piggybank Store LD42",
-    "category": "Lifestyle",
-    "brand": "Piggybank Store",
-    "image": "https://cf.shopee.vn/file/vn-11134207-820l4-mehgpdom81l213",
-    "oldPrice": 199000,
-    "newPrice": 126000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/1120845058/27554814794",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 249,
+    "id": 232,
     "title": "Máy Thổi Phản Lực Không Dây Siêu Mạnh Dùng Pin, Quạt Thổi Turbofan Thổi Bụi Chân Pin Phổ Thông Makita, Tiện Lợi, Rễ Dùng",
     "category": "Lifestyle",
     "brand": "Hưng Thịnh Store 79",
@@ -3735,7 +3480,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 250,
+    "id": 233,
     "title": "MUA 10 TẶNG 10_ Thùng 10 Gói Lamy 100 tờ Tặng 10 Gói 20 tờ Cho Bé Không Mùi (1 ĐƠN 1 QUÀ)",
     "category": "Lifestyle",
     "brand": "TỔNG KHO LAMY OFFICIAL",
@@ -3750,7 +3495,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 251,
+    "id": 234,
     "title": "Nước rửa kính ô tô FOCAR công nghệ chống bám nước làm sạch kính vượt trội không đóng cặn không làm mờ và ố kính",
     "category": "Lifestyle",
     "brand": "Auto Care Luxury",
@@ -3765,7 +3510,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 252,
+    "id": 235,
     "title": "combo 30 Mặt nạ dưỡng ẩm mặt nạ giấy B5 Niacinamide 5% EGF mặt nạ dưỡng trắng da cấp ẩm phục hồi trắng da BEL.V EFG Mask",
     "category": "FMCG",
     "brand": "Luminous Mask Beauty",
@@ -3780,22 +3525,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 253,
-    "title": "[ MUA 1 TẶNG 1 HEO NHỎ] Heo đất tiết kiệm, Heo đất Chuột Lang CAPYBARA size ĐẠI Cute mẫu hot 2024 - Piggybank Store LD42",
-    "category": "Lifestyle",
-    "brand": "Piggybank Store",
-    "image": "https://cf.shopee.vn/file/vn-11134207-820l4-mehgpdom81l213",
-    "oldPrice": 199000,
-    "newPrice": 126000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/1120845058/27554814794",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 254,
+    "id": 236,
     "title": "LOA BLUETOOTH X TRE.ME 3. Siêu Bass Nghe Nhạc Hay Bass Trầm Dùng Được Usb Thẻ Nhớ",
     "category": "ELHA",
     "brand": "ZUIZUI TECHZONE",
@@ -3810,7 +3540,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 255,
+    "id": 237,
     "title": "100 Đôi Găng Tay Bảo Hộ Sợi Polyester Màu Trắng,Găng tay lao động",
     "category": "Lifestyle",
     "brand": "Găng Tay Hà Nội",
@@ -3825,7 +3555,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 256,
+    "id": 238,
     "title": "【Hạt xếp hình 2.6mm Bộ bổ sung】24000 hạt cao cấp nhẵn mịn không tì vết - 240g kèm hộp đựng DIY",
     "category": "FMCG",
     "brand": "sun_flower_a1",
@@ -3840,22 +3570,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 257,
-    "title": "100 Đôi Găng Tay Bảo Hộ Sợi Polyester Màu Trắng,Găng tay lao động",
-    "category": "Lifestyle",
-    "brand": "Găng Tay Hà Nội",
-    "image": "https://cf.shopee.vn/file/vn-11134207-7r98o-ll7chwtwichiee",
-    "oldPrice": 200000,
-    "newPrice": 128000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/1045591950/23579010934",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 258,
+    "id": 239,
     "title": "(COMBO)5 Bột Canh Nấm Bào Ngư Royal Cao Cấp, Không Mì Chính ,Thuần Chay, Tốt Cho Sức Khỏe | Túi 200g",
     "category": "FMCG",
     "brand": "DeepSeek",
@@ -3870,7 +3585,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 259,
+    "id": 240,
     "title": "Áo Sơ Mi Nam Nữ UNISEX Oxford Sọc Xám Đen Họa Tiết Chữ Ký Chuôt Trắng Chất Liệu Lanh UMI Mềm Thoáng Mát Form Áo Dày Dặn",
     "category": "Fashion",
     "brand": "Minglouis_Luxury",
@@ -3885,7 +3600,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 260,
+    "id": 241,
     "title": "[Combo Bình Ổn Giá] 5 Muối  Epsom NSC Chống Viêm Da Hăm Tã, Rôm Sảy, Chữa Mụn Lưng, Viêm Lỗ Chân Lông/ Túi 200gr x 5",
     "category": "FMCG",
     "brand": "Bán Muối Nuôi Mèo",
@@ -3900,7 +3615,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 261,
+    "id": 242,
     "title": "Quấn chũn YoYo tặng kèm che thóp cho bé ngủ ngon 100% petit co giãn 4 chiều thấm hút mồ hôi",
     "category": "FMCG",
     "brand": "Yoyovietnam",
@@ -3915,7 +3630,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 262,
+    "id": 243,
     "title": "[MUA 1 TẶNG 2] Sữa Rửa Mặt Hoa Cúc MILAGANICS Dịu Nhẹ, Cho Da Nhạy Cảm, Giảm Kích Ứng, Làm Sạch Sâu",
     "category": "FMCG",
     "brand": "eHerb Việt Nam",
@@ -3930,7 +3645,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 263,
+    "id": 244,
     "title": "Dầu Gội Tinh Dầu Bưởi Mọc Tóc MILAGANICS Ngừa Rụng Thiên Nhiên An Toàn Lành Tính",
     "category": "FMCG",
     "brand": "eHerb Việt Nam",
@@ -3945,7 +3660,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 264,
+    "id": 245,
     "title": "Áo Khoác Gió Bomber 2 lớp in Họa Tiết Hoa Đào Đi Đò Phù Hợp Dành Cho Nam Nữ Phong Cách Trẻ Trung Hottrend 2025[G198]",
     "category": "Fashion",
     "brand": "khoaogio02",
@@ -3960,7 +3675,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 265,
+    "id": 246,
     "title": "[MUA 1 TẶNG 3] Dầu Dưỡng Trắng Da Body Toàn Thân Chill Oil Giúp Giảm Thâm Và Sáng Da MOAW MOAWS",
     "category": "FMCG",
     "brand": "eHerb Việt Nam",
@@ -3975,7 +3690,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 266,
+    "id": 247,
     "title": "Massage mặt, guasha sừng tự nhiên cạo gió nâng cơ kích thích sản sinh collagen, giúp da sáng khỏe",
     "category": "FMCG",
     "brand": "THANH MAI_STORE",
@@ -3990,7 +3705,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 267,
+    "id": 248,
     "title": "MeO Sweet Lips son kem lỏng thuần chay không chì, bền màu cả ngày, kết cấu mịn lì, mang lại cảm giác căng mọng 5g",
     "category": "FMCG",
     "brand": "MeO Cosmetic Beauty",
@@ -4005,7 +3720,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 268,
+    "id": 249,
     "title": "[MUA 1 TẶNG 2] Gel dưỡng ẩm nha đam B5 2% MILAGANICS hỗ trợ phục hồi cấp ẩm sâu và làm dịu da",
     "category": "FMCG",
     "brand": "eherbvietnam",
@@ -4020,7 +3735,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 269,
+    "id": 250,
     "title": "Đèn LED Siêu Sáng Sử Dụng Pin Makita 55 LED Với 2 Chế Độ Sáng, Có Cổng Sạc Điện Thoại USB",
     "category": "Lifestyle",
     "brand": "Gấu Home76",
@@ -4035,7 +3750,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 270,
+    "id": 251,
     "title": "[LAMY OFFICIAL]_Thùng 10 gói khăn ướt Lamy 80 tờ cao cấp không mùi an toàn cho bé",
     "category": "Lifestyle",
     "brand": "TỔNG KHO LAMY OFFICIAL",
@@ -4050,7 +3765,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 271,
+    "id": 252,
     "title": "Nước Tẩy Trang Bioderma H2O, Tẩy Trang Bio Chính Hãng Cho Da Dầu Mụn, Da Nhạy Cảm 500ml",
     "category": "FMCG",
     "brand": "BiniShop.store",
@@ -4065,7 +3780,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 272,
+    "id": 253,
     "title": "Xịt Mọc Tóc Minoxidil Bailleul 5% Nhập Khẩu Pháp, Kích Thích Mọc Tóc Và Giảm Rụng Tóc Từ Bailleul Chính Hãng",
     "category": "FMCG",
     "brand": "Minoxidil Bailleul Chính Hãng",
@@ -4080,7 +3795,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 273,
+    "id": 254,
     "title": "PICKME CARE FAMILY_Thùng 10 gói khăn ướt cho bé Lamy gói 100 tờ không mùi không paraben",
     "category": "FMCG",
     "brand": "Pickme Care Family",
@@ -4095,7 +3810,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 274,
+    "id": 255,
     "title": "[LAMY OFFICIAL]_Thùng 10 gói khăn ướt Lamy gói 100 tờ không mùi An Toàn Cho Da",
     "category": "Lifestyle",
     "brand": "TỔNG KHO LAMY OFFICIAL",
@@ -4110,7 +3825,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 275,
+    "id": 256,
     "title": "[MUA 1 TẶNG 2] Dầu Dưỡng Trắng Body MOAW MOAWS 150ml - Hương Nước Hoa, BHA Sáng Da Vùng Tối Màu",
     "category": "FMCG",
     "brand": "Moaw Moaws Việt Nam",
@@ -4125,7 +3840,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 276,
+    "id": 257,
     "title": "Áo Phông Nam Nấy Vờ Thêu Chữ Lou Is Bên Ngực Siêu Chất - Áo Thun Nam Nữ Nấy Vờ Thêu Da Logo Sau Áo Siêu Đẹp",
     "category": "Fashion",
     "brand": "Menly Fashion",
@@ -4140,22 +3855,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 277,
-    "title": "Áo Phông Nam Nấy Vờ Thêu Chữ Lou Is Bên Ngực Siêu Chất - Áo Thun Nam Nữ Nấy Vờ Thêu Da Logo Sau Áo Siêu Đẹp",
-    "category": "Fashion",
-    "brand": "Menly Fashion",
-    "image": "https://cf.shopee.vn/file/vn-11134207-820l4-mfex87g5bimlbf",
-    "oldPrice": 350000,
-    "newPrice": 199000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/1474927782/43852948948",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 278,
+    "id": 258,
     "title": "Thùng 10 gói khăn ướt Lamy HomeCare không cồn không parabens cao cấp dành cho em bé gói 80 tờ",
     "category": "FMCG",
     "brand": "Lamy Homecare",
@@ -4170,22 +3870,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 279,
-    "title": "Ấm đun nước siêu tốc Inox 1.8 Lít Electric Kettle chính hãng, sôi nhanh tự ngắt",
-    "category": "FMCG",
-    "brand": "GIA DỤNG GIÁ RẺ QPC",
-    "image": "https://cf.shopee.vn/file/vn-11134207-820l4-mg0umc2lh8215c",
-    "oldPrice": 179000,
-    "newPrice": 118000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/1365706261/29062193808",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 280,
+    "id": 259,
     "title": "TỔNG KHO_Thùng 10 gói khăn ướt Lamy không cồn không parabens cao cấp dành cho em bé gói 100 tờ",
     "category": "FMCG",
     "brand": "TỔNG KHO LAMY HCM",
@@ -4200,7 +3885,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 281,
+    "id": 260,
     "title": "Thùng 10 gói khăn ướt Lamy gói 80 tờ không mùi cho gia đình",
     "category": "FMCG",
     "brand": "ECOBI OFFICIAL STORE",
@@ -4215,7 +3900,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 282,
+    "id": 261,
     "title": "Serum B3 Niacinamide 20% K Lady Care – Mờ Thâm, Kiềm Dầu, Se Khít Lỗ Chân Lông, Cho Da Dầu Mụn, 30ml",
     "category": "FMCG",
     "brand": "Hân Korea",
@@ -4230,7 +3915,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 283,
+    "id": 262,
     "title": "Sữa Rửa Mặt COSRX Cocolux Dạng Gel Chiết Xuất Tràm Trà 150ml Pink Cosmetics Store",
     "category": "FMCG",
     "brand": "EarleanBeauty Mỹ Phẩm",
@@ -4245,7 +3930,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 284,
+    "id": 263,
     "title": "Nước Tẩy Trang Bioderma H2O, Tẩy Trang Bio Chính Hãng Cho Da Dầu Mụn Và Da Nhạy Cảm 500ml",
     "category": "FMCG",
     "brand": "Oliviashope2025",
@@ -4260,7 +3945,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 285,
+    "id": 264,
     "title": "[MUA 1 TẶNG 1] Scrub Muối Hồng Tẩy Tế Bào Chết MOAW MOAWS 250g - Giảm Thâm Body, Sáng Da, Mịn Màng",
     "category": "FMCG",
     "brand": "Moaw Moaws Việt Nam",
@@ -4275,7 +3960,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 286,
+    "id": 265,
     "title": "Chai xịt vệ sinh nội thất xe ô tô FOCAR INTERIOR CLEANER từ Đức giúp làm sạch sâu vết ố bẩn bảo vệ đồ da nhựa",
     "category": "Lifestyle",
     "brand": "Auto Care Luxury",
@@ -4290,7 +3975,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 287,
+    "id": 266,
     "title": "[MUA 1 TẶNG 1] Scrub Tẩy Tế Bào Chết Body Muối Hồng MOAW MOAWS Làm Sáng Da Giảm Thâm Mụn, Mịn Màng",
     "category": "FMCG",
     "brand": "Moaw Moaws Việt Nam",
@@ -4305,7 +3990,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 288,
+    "id": 267,
     "title": "Gương Soi Toàn Thân Hạn Chế Chống Vỡ Có Chân Đứng Hoặc Treo Tường (Ship Hoả Tốc)",
     "category": "Lifestyle",
     "brand": "Nội Thất D&T",
@@ -4320,7 +4005,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 289,
+    "id": 268,
     "title": "Chân Kê Máy Giặt, Tủ Lạnh,Kệ Kê Chân Tủ Lạnh, Máy Giặt Có Bánh Xe Tiện Dụng - Giá Đỡ Đa Năng",
     "category": "Lifestyle",
     "brand": "Ngọc hân đồ gia dụng tổng hợp",
@@ -4335,7 +4020,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 290,
+    "id": 269,
     "title": "Quạt Tích Điện Lồng Sắt Makita, Đế Pin 21V - 2 Mức Gió, Sử Dụng 12-18 Tiếng, Kích Thước 8 Inch 2026",
     "category": "Others",
     "brand": "dangquang88",
@@ -4350,7 +4035,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 291,
+    "id": 270,
     "title": "Combo 3 hũ thuỷ tinh sọc / bộ 3 hũ sọc dung tích 650ml , 1250ml , 2200ml đựng gia vị , muối dưa cà , đựng đồ khô",
     "category": "Lifestyle",
     "brand": "Kho sỉ Nguyên Vũ",
@@ -4365,7 +4050,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 292,
+    "id": 271,
     "title": "[MUA 1 TẶNG 2] Dầu dưỡng da giảm thâm MOAW MOAWS - body sáng da, ngừa rạn da, hương hoa",
     "category": "FMCG",
     "brand": "eherbvietnam",
@@ -4380,7 +4065,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 293,
+    "id": 272,
     "title": "Thùng 10 gói khăn ướt Lamy HomeCare không cồn không parabens cao cấp dành cho em bé gói 100 tờ",
     "category": "FMCG",
     "brand": "Lamy Homecare",
@@ -4395,7 +4080,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 294,
+    "id": 273,
     "title": "MUA 10 TẶNG 10_ Thùng 10 gói khăn ướt Lamy 100 tờ + 10 gói khăn ướt Lamy 20 tờ (1 đơn 1 quà)",
     "category": "FMCG",
     "brand": "ECOBI OFFICIAL STORE",
@@ -4410,7 +4095,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 295,
+    "id": 274,
     "title": "[HOT] Nước hoa chiết nữ Narciso Poudree mẫu thử 10ml- Hương phấn",
     "category": "FMCG",
     "brand": "NƯỚC HOA CHIẾT QH",
@@ -4425,7 +4110,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 296,
+    "id": 275,
     "title": "Đèn bắt muỗi-máy bắt muỗi diệt côn trùng thông minh kiêm đèn ngủ có cổng sạc USB",
     "category": "Lifestyle",
     "brand": "GIA DỤNG GREEN HOME",
@@ -4440,7 +4125,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 297,
+    "id": 276,
     "title": "Dụng Cụ Chống Đẩy Hít Đất Parallettes Tập Cơ Ngực, Planche, Handstand, Hướng Dẫn Tập Calisthenics, Gym- Mỹ Nghệ nhà Thóc",
     "category": "Fashion",
     "brand": "Mynghenhathoc.01",
@@ -4455,7 +4140,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 298,
+    "id": 277,
     "title": "Tinh Chất (Serum) Dưỡng Mắt Dạng Lăn Giảm Thâm Bọng Mắt, Giảm Nếp Nhăn Chiết Xuất Hạt Diêm Mạch SKINLAX 10ml",
     "category": "FMCG",
     "brand": "Skinlax - Gian Hàng Chính Hãng",
@@ -4470,7 +4155,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 299,
+    "id": 278,
     "title": "Máy hút bụi cầm tay, Công suất Lớn, Lực Hút 128.000 Pa, Chân Pin Phổ Thông 4cm Tiện Lợi Và Đa Năng",
     "category": "Lifestyle",
     "brand": "Gấu Home76",
@@ -4485,7 +4170,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 300,
+    "id": 279,
     "title": "Máy Đo Huyết Áp Cổ Tay Có Màn Hình LED, Phiên Bản Mới Sạc Pin Giọng Nói Tiếng Việt Thông Minh",
     "category": "Lifestyle",
     "brand": "momo store68",
@@ -4500,22 +4185,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 301,
-    "title": "Áo khoác Gió bomber Gió In Họa Tiết Hình Miệng Cá Mập Siêu Đẹp Dành Cho cả Nam và Nữ Hottrend 2025 [G09]",
-    "category": "Fashion",
-    "brand": "Áo Xinh 17",
-    "image": "https://cf.shopee.vn/file/vn-11134207-820l4-mejjj0wfr6dja8",
-    "oldPrice": 210000,
-    "newPrice": 118000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/529021448/24812058709",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 302,
+    "id": 280,
     "title": "Nước tẩy bồn cầu Logeski – Tẩy mạnh, không cần chà, an toàn, diệt khuẩn 99.9%, khử mùi, đa năng",
     "category": "CB",
     "brand": "Logeski Vietnam",
@@ -4530,7 +4200,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 303,
+    "id": 281,
     "title": "Sét bộ áo khoác nỉ hoodie in họa tiết số kèm quần suông trơn basic chất liệu nỉ bông phong cách trẻ trung",
     "category": "Fashion",
     "brand": "Yuna_Boutique",
@@ -4545,7 +4215,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 304,
+    "id": 282,
     "title": "Nước tẩy rỉ sét, Xịt tẩy rỉ sét, Tẩy rỉ kim loại - Tẩy Sạch Rỉ Sét Trên Vật Liệu Xây Dựng, Sắt Thép, Giảm Thiểu Quá Trìn",
     "category": "Lifestyle",
     "brand": "iclean VN",
@@ -4560,7 +4230,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 305,
+    "id": 283,
     "title": "Áo Hoodie Khoá Zip Thom Hoạ Tiết Sọc Tay Phối Cá Heo- Áo Khoác Mũ 2 Lớp Chuẩn Hàng Tàu Dày Dặn",
     "category": "Fashion",
     "brand": "TIMO.BOUTIQUE",
@@ -4575,7 +4245,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 306,
+    "id": 284,
     "title": "bộ quần áo LA hoạ tiết in cao cấp sắc nét _bộ đồ thun cộc tay nam cổ tròn new 2025",
     "category": "Fashion",
     "brand": "GentleWear Boutique",
@@ -4590,7 +4260,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 307,
+    "id": 285,
     "title": "Quạt tản nhiệt điện thoại S3 sò lạnh siêu rẻ Led RGB Gaming làm mát điện thoại chơi game livestream",
     "category": "ELHA",
     "brand": "Chaienstore",
@@ -4605,7 +4275,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 308,
+    "id": 286,
     "title": "Tinh Dầu Massage Yoni Tăng Cảm Giác Yêu Thương Cho Cặp đôi - Làm Hồng Nhu Hoa & Se K..hi ...t Vk",
     "category": "FMCG",
     "brand": "oilmassage",
@@ -4620,7 +4290,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 309,
+    "id": 287,
     "title": "Bàn Để Ủi - Cầu Là Quần Áo Điều Chỉnh 5 Cấp Độ (Giao Màu Ngẫu Nhiên) . Đức Nhung Store",
     "category": "Others",
     "brand": "Đức Nhung Store",
@@ -4635,7 +4305,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 310,
+    "id": 288,
     "title": "Nước giặt quần áo em bé sơ sinh D-nee, dnee newborn 2in1 chuẩn Thái Lan 1400ml",
     "category": "FMCG",
     "brand": "CTY DNEE VN",
@@ -4650,7 +4320,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 311,
+    "id": 289,
     "title": "Sét bộ áo khoác nỉ hoodie in họa tiết số kèm quần suông trơn basic chất liệu nỉ bông phong cách trẻ trung",
     "category": "Fashion",
     "brand": "Yuna_Boutique",
@@ -4665,7 +4335,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 312,
+    "id": 290,
     "title": "30 M mặt nạ nhau thai cừu mặt nạ dưỡng ẩm mặt nạ giấy b5 collagen mặt nạ dưỡng trắng da cấp ẩm phục hồi Rwine Beauty",
     "category": "FMCG",
     "brand": "Luminous Mask Beauty",
@@ -4680,7 +4350,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 313,
+    "id": 291,
     "title": "Combo 10 Miếng Mặt Nạ B5 HA Dưỡng Ẩm Phục Hồi Da K Lady Care – Cấp Ẩm, Làm Dịu, Cho Da Nhạy Cảm",
     "category": "FMCG",
     "brand": "Hân Korea",
@@ -4695,7 +4365,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 314,
+    "id": 292,
     "title": "Kem Dưỡng Trắng Da Bạch Ngọc Liên - Body Whitening Cream 90g, kem body sáng da, mờ thâm, nám",
     "category": "FMCG",
     "brand": "AN NINH SHOP",
@@ -4710,7 +4380,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 315,
+    "id": 293,
     "title": "[LAMY OFFICIAL]_Thùng 10 gói khăn ướt Lamy gói 100 tờ không mùi An Toàn Cho Da Trẻ Em",
     "category": "Lifestyle",
     "brand": "TỔNG KHO LAMY OFFICIAL",
@@ -4725,7 +4395,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 316,
+    "id": 294,
     "title": "Gel Bôi Trơn Quan Hệ Trắng Đục Heihun 400ml –Siêu Trơn, Lâu Khô, Cấp Ẩm, Massage Mượt Mà, Chính Hãng",
     "category": "FMCG",
     "brand": "HEIHUN PLEASURE",
@@ -4740,7 +4410,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 317,
+    "id": 295,
     "title": "Nước rửa xe bọt tuyết Focar 4 lít vệ sinh ô tô xe máy làm sạch sâu siêu tạo bọt rửa xe nhanh tăng độ bóng cho sơn xe",
     "category": "Lifestyle",
     "brand": "Auto Care Luxury",
@@ -4755,7 +4425,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 318,
+    "id": 296,
     "title": "Máy hơ gel SUN 5 UV/LED tem xanh 48W 24 bóng đèn - Máy hơ móng mini dành cho học viên Nailbnd",
     "category": "FMCG",
     "brand": "Nail BND Star",
@@ -4770,7 +4440,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 319,
+    "id": 297,
     "title": "Nước Tẩy Trang Bioderma Crealine H2O 500ml ,Tẩy Trang Bio Quốc Dân Dành Cho Mọi Loại Da",
     "category": "FMCG",
     "brand": "BiniShop.store",
@@ -4785,7 +4455,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 320,
+    "id": 298,
     "title": "TỔNG KHO_Thùng 10 Gói Khăn Ướt Cho Bé Lamy 100 Tờ Không Mùi Không Cồn Không Chất Tẩy Trắng",
     "category": "FMCG",
     "brand": "TỔNG KHO LAMY HCM",
@@ -4800,7 +4470,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 321,
+    "id": 299,
     "title": "Nạo Rau Củ Quả Hai Lưỡi Cao Cấp Thép Không Gỉ Thương Hiệu KICHIN - NK02",
     "category": "Lifestyle",
     "brand": "GIA DỤNG KICHIN SHOP",
@@ -4815,7 +4485,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 322,
+    "id": 300,
     "title": "Bàn chải điện Sonic X7 dùng công nghệ rung sóng âm, bàn chải đánh răng tự động đánh tan mảng bám thế hệ mới nhất 2024",
     "category": "FMCG",
     "brand": "Đồ Gia Dụng Thế Hệ Mới",
@@ -4830,7 +4500,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 323,
+    "id": 301,
     "title": "KHO PHÚ NHUẬN_Thùng 10 gói khăn ướt Lamy không cồn không parabens gói 80 tờ cao cấp dành cho em bé",
     "category": "FMCG",
     "brand": "HERMOSO PREMIUM STORE",
@@ -4845,7 +4515,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 324,
+    "id": 302,
     "title": "Loa Di Động Bluetooth J/B/L Go/3，Ngoài trời, Chống nước,Âm lượng siêu lớn",
     "category": "ELHA",
     "brand": "XI MUOI SHOP",
@@ -4860,7 +4530,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 325,
+    "id": 303,
     "title": "[𝐓𝐢𝐭𝐚𝐧𝐢𝐮𝐦] Gọng Kính Titan Nguyên Khối 𝐃𝐞𝐬𝐩𝐨𝐢𝐧𝐭𝐬Thay Được Mọi Tròng,Gọng Titanium nhập Nhật Japan-60",
     "category": "Fashion",
     "brand": "Despoints Eyewear",
@@ -4875,7 +4545,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 326,
+    "id": 304,
     "title": "Nồi Cơm Điện  CUCKOO  Dung Tích 1L- 1,2L-1,8L Công Suất 700W Nắp Gài Hình Lợn Lòng Nồi Tráng Men Siêu Chống Dính",
     "category": "ELHA",
     "brand": "KITCHEN STOREE",
@@ -4890,7 +4560,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 327,
+    "id": 305,
     "title": "Máy biến hình 441pcs  Mô hình Hornet/Optimus Prime, Có thể biến thành xe, Đồ chơi trẻ em",
     "category": "Lifestyle",
     "brand": "VN_store0926",
@@ -4905,7 +4575,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 328,
+    "id": 306,
     "title": "Combo Giảm Thâm Mắt, Giảm Thâm Bọng Mắt, Giảm Nếp Nhăn 2 Bước SKINLAX",
     "category": "FMCG",
     "brand": "Skinlax - Gian Hàng Chính Hãng",
@@ -4920,7 +4590,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 329,
+    "id": 307,
     "title": "Kem Chống Nắng Dạng Xịt ICE LERSKIN SPF 50+ PA+++ 90ml Dưỡng Ẩm & Nuôi Dưỡng Nhẹ Mỏng & Thoáng Khí Bảo Vệ Cao Khỏi Tia UV Chống Nước Tiện Lợi Có thể thoa lại bất cứ lúc nào Không gây bết dính",
     "category": "CB",
     "brand": "ICE_LERSKIN",
@@ -4935,7 +4605,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 330,
+    "id": 308,
     "title": "[HÀNG HOT] Nước Hoa 𝗗𝗲𝗹𝗶𝗻𝗮 Exclusif Sang Chảnh Tinh Tế và Quý Phái chiết 10ml",
     "category": "FMCG",
     "brand": "NƯỚC HOA CHIẾT QH",
@@ -4950,7 +4620,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 331,
+    "id": 309,
     "title": "Áo Thô Mix Ren 2 Dây Chiết Eo Dây Thắt Nơ 2 Dây Chiết Eo SIÊU XINH Cho Các Nàng H16",
     "category": "Fashion",
     "brand": "aichii_store17",
@@ -4965,7 +4635,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 332,
+    "id": 310,
     "title": "Bộ Quần Aó ADS Cộc Thoáng Mát Mùa Hè Cực Năng Động Phù Hợp Với Gioi Trẻ_Aó AD.S Cộc S2",
     "category": "Fashion",
     "brand": "Thời Trang Unisex Hải Đăng",
@@ -4980,7 +4650,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 333,
+    "id": 311,
     "title": "Combo 2 bước vệ sinh và dưỡng nội thất ô tô tại nhà FOCAR làm sạch hiệu quả nâng cao tuổi thọ nội thất xe sạch và bóng",
     "category": "Lifestyle",
     "brand": "Auto Care Luxury",
@@ -4995,22 +4665,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 334,
-    "title": "Giấy Lau Kính Chống Bám Bụi Bẩn, Vân Tay Trên Kính, Laptop,...Visiomax Hộp 52 Tờ - Nhập Khẩu Từ Đức",
-    "category": "Lifestyle",
-    "brand": "Nghiện Nhà Sạch Store",
-    "image": "https://cf.shopee.vn/file/vn-11134207-81ztc-mlerqxhqikunaf",
-    "oldPrice": 387000,
-    "newPrice": 239000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/63389811/43257841700",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 335,
+    "id": 312,
     "title": "[MUA 1 TẶNG 1] Toner Sáng Da Hoa Cúc Niacinamide 3% MILAGANICS Sạch Sâu, Giảm Thâm",
     "category": "FMCG",
     "brand": "eHerb Việt Nam",
@@ -5025,7 +4680,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 336,
+    "id": 313,
     "title": "Sách – Hackers IELTS Basic (Reading + Listening + Writing + Speaking) (Gamma Books)",
     "category": "Lifestyle",
     "brand": "Alpha Books Official",
@@ -5040,22 +4695,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 337,
-    "title": "Giấy Lau Kính Chống Bám Bụi Bẩn, Vân Tay Trên Kính, Laptop,...Visiomax Hộp 52 Tờ - Nhập Khẩu Từ Đức",
-    "category": "Lifestyle",
-    "brand": "Nghiện Nhà Sạch Store",
-    "image": "https://cf.shopee.vn/file/vn-11134207-81ztc-mlerqxhqikunaf",
-    "oldPrice": 387000,
-    "newPrice": 239000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/63389811/43257841700",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 338,
+    "id": 314,
     "title": "Phân Bón Sinh Học KA GREEN LIQUID KAGRI Dạng Gel 1L – Kích Rễ Mạnh, Bung Đọt, Dày Lá, Cải Tạo Đất",
     "category": "Lifestyle",
     "brand": "Phân bón KAGRI Việt Nam",
@@ -5070,7 +4710,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 339,
+    "id": 315,
     "title": "Nước Tẩy Trang Bioderma Senbium H2O,Tẩy Trang Bio  Làm Sạch Sâu Cho Da Dầu, Da Nhạy Cảm 500ml",
     "category": "FMCG",
     "brand": "Aliceshope2025",
@@ -5085,7 +4725,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 340,
+    "id": 316,
     "title": "Máy Hút Bụi Cầm Tay Hot 2026, Công suất Lớn, Lực Hút 128.000 Pa, Chân Pin Phổ Thông 4cm Tiện Lợi Và Đa Năng",
     "category": "Others",
     "brand": "dangquang88",
@@ -5100,22 +4740,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 341,
-    "title": "Giấy Lau Kính Chống Bám Bụi Bẩn, Vân Tay Trên Kính, Laptop,...Visiomax Hộp 52 Tờ - Nhập Khẩu Từ Đức",
-    "category": "Lifestyle",
-    "brand": "Nghiện Nhà Sạch Store",
-    "image": "https://cf.shopee.vn/file/vn-11134207-81ztc-mlerqxhqikunaf",
-    "oldPrice": 387000,
-    "newPrice": 239000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/63389811/43257841700",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 342,
+    "id": 317,
     "title": "bộ quần áo nam cộc tay thêu ngựa chữ xù cổ tròn siêu sang đơn giản",
     "category": "Fashion",
     "brand": "Thời Trang Unisex Hải Đăng",
@@ -5130,7 +4755,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 343,
+    "id": 318,
     "title": "Sách - Lẻ/Combo Hackers IELTS (Có File Nghe): Listening + Reading + Writing + Speaking (Gamma books)",
     "category": "Lifestyle",
     "brand": "Alpha Books Official",
@@ -5145,22 +4770,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 344,
-    "title": "Giấy Lau Kính Chống Bám Bụi Bẩn, Vân Tay Trên Kính, Laptop,...Visiomax Hộp 52 Tờ - Nhập Khẩu Từ Đức",
-    "category": "Lifestyle",
-    "brand": "Nghiện Nhà Sạch Store",
-    "image": "https://cf.shopee.vn/file/vn-11134207-81ztc-mlerqxhqikunaf",
-    "oldPrice": 387000,
-    "newPrice": 239000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/63389811/43257841700",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 345,
+    "id": 319,
     "title": "Xịt Mũi Cho Mẹ Và Bé Từ 6 Tháng tuổi Otosan Nasal Spray Baby Giảm Tắc Nghẹt Mũi và giúp thông mũi Lọ 20ml",
     "category": "FMCG",
     "brand": "Otosan Việt Nam Store",
@@ -5175,7 +4785,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 346,
+    "id": 320,
     "title": "Mắt Kính GM Nam Nữ Form To – Kính Cận Thời Trang Cao Cấp Bản Lề 5 Chân DORIS",
     "category": "Fashion",
     "brand": "Doris Eyewear",
@@ -5190,7 +4800,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 347,
+    "id": 321,
     "title": "Thùng 10 gói khăn ướt Lamy HomeCare gói 80 tờ không cồn không parabens cao cấp dành cho em bé",
     "category": "FMCG",
     "brand": "Lamy Homecare",
@@ -5205,7 +4815,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 348,
+    "id": 322,
     "title": "KHO PHÚ NHUẬN_Thùng 10 gói khăn ướt Lamy không cồn không parabens gói 100 tờ cao cấp dành cho em bé",
     "category": "FMCG",
     "brand": "HERMOSO PREMIUM STORE",
@@ -5220,7 +4830,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 349,
+    "id": 323,
     "title": "Xịt Mũi Cho Mẹ Và Bé Từ 6 Tháng tuổi Otosan Nasal Spray Baby Giảm Tắc Nghẹt Mũi và giúp thông mũi Lọ 20ml",
     "category": "FMCG",
     "brand": "Otosan Việt Nam Store",
@@ -5235,22 +4845,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 350,
-    "title": "Áo Khoác Hoodie Zip COTTON Chất nỉ bông Cotton Mềm Mịn Dày Dặn Thêu Xù NQ30 MISO Form Boxy Form Rộng Unisex 2026",
-    "category": "Fashion",
-    "brand": "MONA_Studio",
-    "image": "https://cf.shopee.vn/file/vn-11134207-7ras8-mbpkfsckh8lx0b",
-    "oldPrice": 238000,
-    "newPrice": 155000,
-    "sold": 0,
-    "stockPercent": 0,
-    "isHot": true,
-    "coupon": "Facebook -20%",
-    "affiliateUrl": "https://shopee.vn/product/499975347/29078931710",
-    "tag": "Flash Sale"
-  },
-  {
-    "id": 351,
+    "id": 324,
     "title": "Set Áo Polo Kèm Chân Váy Thêu Ngựa chất cotton 4 chiều siêu mát, chân váy có quần bảo hộ - Set Nữ siêu xinh - S101",
     "category": "Fashion",
     "brand": "aichii_store17",
@@ -5265,7 +4860,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 352,
+    "id": 325,
     "title": "Titanium Gọng Kính Nam Business Elite Despoints Gọng Titan cao cấp, thay được mọi loại tròng.",
     "category": "Fashion",
     "brand": "Despoints Eyewear",
@@ -5280,7 +4875,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 353,
+    "id": 326,
     "title": "[MUA 1 TẶNG 2] Dầu Giảm Thâm Body MOAW MOAWS - Body Sáng Da, Ngừa Rạn Da, Hương Nước Hoa Thơm Lâu",
     "category": "FMCG",
     "brand": "Moaw Moaws Việt Nam",
@@ -5295,7 +4890,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 354,
+    "id": 327,
     "title": "Máy lấy cao răng tại nhà M07, dụng cụ lấy vôi răng kiêm bàn chải điện sạc đế từ tính Kháng nước IPX7 Tặng kèm kệ đỡ",
     "category": "FMCG",
     "brand": "Loluyn Store",
@@ -5310,7 +4905,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 355,
+    "id": 328,
     "title": "Bộ quần áo thể thao addas in logo nổi trước ngực cực kì tinh tế chất liệu coton co dãn mát mẻ neww 2024",
     "category": "Fashion",
     "brand": "UNI Shop -áo polo chính hãng",
@@ -5325,7 +4920,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 356,
+    "id": 329,
     "title": "Tinh Chất (Serum) Giảm Thâm Môi, Dưỡng Hồng Môi Dạng Lăn Giúp Dưỡng Ẩm, Môi Sáng Màu SKINLAX 10ml",
     "category": "FMCG",
     "brand": "Skinlax - Gian Hàng Chính Hãng",
@@ -5340,7 +4935,7 @@
     "tag": "Flash Sale"
   },
   {
-    "id": 357,
+    "id": 330,
     "title": "Máy Massage Đầu Cổ MISUMA Scalp Massager Giải Toả Căng Thẳng, Mệt Mỏi Thư Giãn Gội Đầu Dưỡng Sinh",
     "category": "ELHA",
     "brand": "Misuma Mall",
@@ -5352,6 +4947,1266 @@
     "isHot": true,
     "coupon": "Facebook -20%",
     "affiliateUrl": "https://shopee.vn/product/726902747/25025174572",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 331,
+    "title": "Giày Sandals Nữ Teva Hurricane Xlt2 - Cam - 1019235-ATM ADS06 LS500",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-ma3tdnebspi267",
+    "oldPrice": 1699000,
+    "newPrice": 688900,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.28667899519",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 332,
+    "title": "Giày Sandals Nữ Teva Hurricane Xlt2 - Vàng - 1019235-SVP ADS14 LS200",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-maaqy80xr3ea3f",
+    "oldPrice": 1699000,
+    "newPrice": 688900,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.28667899545",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 333,
+    "title": "Giày Sandals Nữ Teva Hurricane Xlt2 - Nâu - 1019235-CRBO ADS05",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ras8-marwf9p14a6kfa",
+    "oldPrice": 1699000,
+    "newPrice": 688900,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.26717889489",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 334,
+    "title": "Giày Sandal Nữ Teva Original Universal - Đen - 1003987-BLK ADS25 LS300",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-mae1ejq643x45d",
+    "oldPrice": 1299000,
+    "newPrice": 533800,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.29524119560",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 335,
+    "title": "Giày Chạy Bộ Nữ Mizuno Wave Sky 8 - Trắng - J1GD240221 ADS02 LS200",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-ma3tdj8hvywead",
+    "oldPrice": 4290000,
+    "newPrice": 1780350,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.28965060809",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 336,
+    "title": "Giày Leo Núi Nữ Columbia Facet™ 75 Outdry™ - Xanh Dương - 2100121466 ADS14 LS300",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-maar4kddlf8o8e",
+    "oldPrice": 3690000,
+    "newPrice": 1531350,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.26210813906",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 337,
+    "title": "Áo Thun Dài Tay Nữ Mizuno Warmalite Hooded - Tím - J2GCA70664 ADS24-RM",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-m9x5gh0ognla37",
+    "oldPrice": 1190000,
+    "newPrice": 493850,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.28068012938",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 338,
+    "title": "Áo Thun Dài Tay Nữ Mizuno Warmalite Hooded - Xanh Dương - J2GCA70624 ADS22 LS400",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-maaqwqkfzcvm8b",
+    "oldPrice": 1190000,
+    "newPrice": 493850,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.29118012555",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 339,
+    "title": "Quần Bó Thể Thao Nữ Columbia Cirque River™ Legging Ii - Đen - 2106731010 (Size US) ADS28-RM",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-maar8ntjtlkbc8",
+    "oldPrice": 1790000,
+    "newPrice": 742850,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.25035864999",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 340,
+    "title": "Quần Bó Thể Thao Nữ Columbia Cirque River™ Legging Ii - Xanh Navy - 2106731464 (Size US)",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-maaqum9jn3zm9e",
+    "oldPrice": 1790000,
+    "newPrice": 742850,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.29960804137",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 341,
+    "title": "Áo Khoác Nữ Columbia Crystal Leaf™ Omni-Heat™ Helix Fz - Đỏ - 2085332602 (Size Châu Á) ADS33 LS300",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-maar7dq1a1yg49",
+    "oldPrice": 2990000,
+    "newPrice": 1240850,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.25535868977",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 342,
+    "title": "Quần Dài Thể Thao Nữ Columbia Hike™ - Nâu - 2012552224 ADS37",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-maar3ikyw877b1",
+    "oldPrice": 1190000,
+    "newPrice": 493850,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.26571717067",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 343,
+    "title": "Áo Thun Tay Dài Nữ Columbia Boundless™ Days Knit - Đen - 2087841010 (Size US) ADS20",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ras8-marwf115spnb84",
+    "oldPrice": 1190000,
+    "newPrice": 493850,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.26862313270",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 344,
+    "title": "Áo Thun Tay Dài Nữ Columbia Boundless™ Days Knit - Tím - 2087841607 (Size US) ADS29",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-maar30wqso7792",
+    "oldPrice": 1190000,
+    "newPrice": 493850,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.26762313505",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 345,
+    "title": "Giày Chạy Bộ Nữ Mizuno Wave Sky 8 - Đen - J1GD240225 ADS25 LS400",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-ma3tdq0xyaf880",
+    "oldPrice": 4290000,
+    "newPrice": 1780350,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.28515070606",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 346,
+    "title": "Áo Thun Tay Dài Nữ Columbia Columbia Trek™ Relaxed - 1960012581 (Size Châu Á) ADS35 LS500",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ras8-marwdte5p3h41a",
+    "oldPrice": 890000,
+    "newPrice": 369350,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.27311908397",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 347,
+    "title": "Quần Bó Thể Thao Nữ Columbia Cirque River™ Legging Ii - Xanh Navy - 2106733464 ADS36",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-maar7tr5tif79e",
+    "oldPrice": 1790000,
+    "newPrice": 742850,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.25335950875",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 348,
+    "title": "Quần Bó Thể Thao Nữ Columbia Cirque River™ Legging Ii - Đen - 2106733010",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-maaqyszx28ar3c",
+    "oldPrice": 1790000,
+    "newPrice": 742850,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.28411030798",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 349,
+    "title": "Bộ Đồ Bơi Một Mảnh Nữ Speedo Hydraline Colourblock Zip - Xanh Dương - 8-00442016056 ADS12-RM",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-ma3tdhkubb7m69",
+    "oldPrice": 2499000,
+    "newPrice": 1037500,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.29161911079",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 350,
+    "title": "Bộ Đồ Bơi Một Mảnh Nữ Speedo Hydraline Colourblock Zip - Đen - 8-00442017373 ADS12 LS400",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-ma3tdyhvk2101b",
+    "oldPrice": 2499000,
+    "newPrice": 1037500,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.27511908260",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 351,
+    "title": "Bộ Đồ Bơi Chống Nắng Nữ Speedo Long Sleeve - Xanh Dương - 8-00475517576 ADS05 LS400",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ras8-marwcnz29o756e",
+    "oldPrice": 2099000,
+    "newPrice": 871500,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.27708605954",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 352,
+    "title": "Bộ Đồ Bơi Chống Nắng Nữ Speedo Printed Panel - Xanh Dương - 8-1351917576 ADS10 LS400",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-ma3tehm9ouwef2",
+    "oldPrice": 2099000,
+    "newPrice": 871500,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.26058761252",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 353,
+    "title": "Quần Ngắn Nữ 2XU Aero Hi-Rise 4 Inch - Xanh Lá - WR7237b-GNM/WRF ADS14 LS200",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134275-7ras8-mbf1r998jiv822",
+    "oldPrice": 1499000,
+    "newPrice": 622500,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.29287991631",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 354,
+    "title": "Quần Bơi Chống Nắng Nữ Speedo Panel 3/4 - Xanh Dương - 8-00308617204 ADS34 LS500",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-maar51lsexk8f0",
+    "oldPrice": 1499000,
+    "newPrice": 622500,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.26058765778",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 355,
+    "title": "Đồ Bơi Một Mảnh Nữ Speedo Hyperboom Allover Medalist - Đen - 8-1219916764 ADS29",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-mae1fsmeey8o30",
+    "oldPrice": 1499000,
+    "newPrice": 622500,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.25916628598",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 356,
+    "title": "Đồ Bơi Một Mảnh Nữ Speedo Placement Digital Vback - Xanh Dương - 8-00349916610 ADS17-RM",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ras8-marwjl3jpdvwb0",
+    "oldPrice": 1499000,
+    "newPrice": 622500,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.25209833003",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 357,
+    "title": "Bộ Đồ Bơi Nữ Speedo High Neck Splice X Back - Đen - 8-00457717551 ADS10-RM",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ras8-marwcnz29pzre1",
+    "oldPrice": 1499000,
+    "newPrice": 622500,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.27708605956",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 358,
+    "title": "Đồ Bơi Một Mảnh Nữ Speedo Colourblock High Neck X Back - Xanh Dương - 8-00305916644 ADS29 LS500",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-mae1fw07gp1z06",
+    "oldPrice": 1299000,
+    "newPrice": 539500,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.25765385396",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 359,
+    "title": "Chân Váy Nữ Speedo Wrap - Xanh Dương - 8-00372417204",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ras8-marwgzb2yh93b4",
+    "oldPrice": 1299000,
+    "newPrice": 539500,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.26058765852",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 360,
+    "title": "Quần Bơi Nữ Speedo Sunprotection Mid Length - Xanh Lá - 8-15985H871 ADS37",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-maar467obd2q6a",
+    "oldPrice": 1299000,
+    "newPrice": 539500,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.26357449294",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 361,
+    "title": "Giày Chạy Bộ Nữ Mizuno Wave Rebellion Flash 2 - Xanh Dương - J1GD243571 ADS25-RM",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-m9x5bcfykeb2eb",
+    "oldPrice": 4490000,
+    "newPrice": 1867500,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.28515070602",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 362,
+    "title": "Giày Chạy Bộ Nữ Mizuno Wave Skyrise 5 - Tím - J1GD240973 ADS10 LS200",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-ma3tdq17xuge40",
+    "oldPrice": 2990000,
+    "newPrice": 1253300,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.28515070544",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 363,
+    "title": "Giày Chạy Bộ Nữ Mizuno Wave Skyrise 5 - Xanh Dương - J1GD240971 ADS20 LS500",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-maar0unx9dgr06",
+    "oldPrice": 2990000,
+    "newPrice": 1253300,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.27565075557",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 364,
+    "title": "Giày Chạy Bộ Nữ Mizuno Wave Skyrise 5 - Xanh Lá - J1GD240972 ADS09 LS500",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-m9x5lrq9dpim4e",
+    "oldPrice": 2990000,
+    "newPrice": 1253300,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.26215059007",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 365,
+    "title": "Giày Chạy Bộ Nữ Mizuno Wave Rider 28 - Xanh Dương - J1GD240321 ADS05 LS200",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-ma3tdqu2t0re4b",
+    "oldPrice": 3690000,
+    "newPrice": 1556250,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.28415070660",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 366,
+    "title": "Giày Chạy Bộ Nữ Mizuno Wave Rider 28 - Xanh Lá - J1GD240328 ADS27-RM",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-m9x5dmz1u0ck30",
+    "oldPrice": 3690000,
+    "newPrice": 1556250,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.29065060612",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 367,
+    "title": "Giày Chạy Bộ Nữ Mizuno Wave Inspire 20 D - Đen - J1GD244672 ADS26-RM",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-ma3tego5011gff",
+    "oldPrice": 3690000,
+    "newPrice": 1556250,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.26115059117",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 368,
+    "title": "Giày Chạy Bộ Nữ Mizuno Wave Inspire 20 D - Xanh Dương - J1GD244671 ADS18 LS400",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-mae1f59ym8d3e6",
+    "oldPrice": 3690000,
+    "newPrice": 1567040,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.27465075544",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 369,
+    "title": "Quần Bó Thể Thao Nữ Mizuno Impulse Core Mid - Xanh Dương  - J2GBB20624",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-maar1ehk924210",
+    "oldPrice": 990000,
+    "newPrice": 424130,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.27368180080",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 370,
+    "title": "Quần Bó Thể Thao Nữ Mizuno Impulse Core Mid - Đen - J2GBB20609 ADS22 LS500",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-m9x5e1lyoqoq6f",
+    "oldPrice": 990000,
+    "newPrice": 424130,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.28968943697",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 371,
+    "title": "Quần Bó Thể Thao Nữ Mizuno Impulse Core Mid - Tím - J2GBB20664",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-m9x5hsucilwu4d",
+    "oldPrice": 990000,
+    "newPrice": 424130,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.27568017693",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 372,
+    "title": "Quần Dài Bó Cơ Nữ 2Xu Form Hi-Rise - Xanh Quân Đội - WA7301b-HTG/HTG",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134275-7ras8-mbf1r6oabl9c66",
+    "oldPrice": 2390000,
+    "newPrice": 1043310,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.44206009078",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 373,
+    "title": "Áo Bra Thể Thao Nữ 2Xu Motion Racerback - Xám - WR6998a-JUP/WHT ADS22",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134275-7ras8-mbf1r7mywu3ke3",
+    "oldPrice": 1590000,
+    "newPrice": 695540,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.44406004946",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 374,
+    "title": "Áo Ba Lỗ Nữ 2XU Aero Singlet - Xanh Dương - WR6928a-HAL/WRF ADS29",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134275-7ras8-mbf1r7ryphdwfd",
+    "oldPrice": 890000,
+    "newPrice": 391760,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.27887991592",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 375,
+    "title": "Quần Dài Bó Cơ Nữ 2Xu Form Spliced Hi-Rise Compression - Xanh Navy - WA7201b-MDN/PKG ADS20 LS300",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134275-7ras8-mbf1r5wtfqro18",
+    "oldPrice": 2590000,
+    "newPrice": 1158680,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.28387991600",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 376,
+    "title": "Quần Ngắn Nữ 2XU Aero Hi-Rise 4 Inch - Tím - WR7237b-SCA/WRF",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134275-7ras8-mbf1r99ij5kk29",
+    "oldPrice": 1499000,
+    "newPrice": 671470,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.28887991594",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 377,
+    "title": "Quần Ngắn Nữ 2XU Aero 2-In-1 4 Inch - Tím - WR6861b-THT/WRF ADS26",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134275-7ras8-mbf1r7mox8ps08",
+    "oldPrice": 1990000,
+    "newPrice": 894740,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.44006004960",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 378,
+    "title": "Vợt pickleball Kamito Tiamo, mặt vợt carbon nhám, nhẹ, ổn định, bền bỉ",
+    "category": "Thời Trang",
+    "brand": "kamito_official",
+    "image": "https://cf.shopee.vn/file/vn-11134207-81ztc-ml9jtdye3ax40c",
+    "oldPrice": 2400000,
+    "newPrice": 1080000,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.353619944.25141087086",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 379,
+    "title": "Quần Ngắn Bó Cơ Nữ 2Xu Form Hi-Rise - Hồng - WA7300b-PKG/PKG ADS34 LS400",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134275-7ras8-mbf1r5gq4qqo34",
+    "oldPrice": 1790000,
+    "newPrice": 811740,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.24495708038",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 380,
+    "title": "Giày Sandal Nữ Teva Original Revive - Cam - 1153651-SRV ADS17",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-ma3tes14c38u12",
+    "oldPrice": 995000,
+    "newPrice": 455670,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.25611657228",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 381,
+    "title": "Áo Thun Nữ HOKA Essential - Trắng - 1141758 - EGN ADS26 LS500",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134275-7ras8-md1mbe8v9hnx37",
+    "oldPrice": 1199000,
+    "newPrice": 549460,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.25246252130",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 382,
+    "title": "VÁY LIỀN PICKLEBALL KAMITO 01",
+    "category": "Thời Trang",
+    "brand": "kamito_official",
+    "image": "https://cf.shopee.vn/file/vn-11134207-81ztc-mk161q3xhhj8dd",
+    "oldPrice": 649000,
+    "newPrice": 299000,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.353619944.27433155095",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 383,
+    "title": "Giày Sandals Nữ Teva Hurricane Xlt2 Revive - Hồng - 1159010-SVV ADS15",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ras8-marwbxrop23c61",
+    "oldPrice": 1495000,
+    "newPrice": 688900,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.28053841577",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 384,
+    "title": "Quần Ngắn Thể Thao Nữ HOKA Elaro 5\" Bike - Tím - 1141761 - ASTRL ADS36",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134275-7ras8-md1mbe9f8qe46e",
+    "oldPrice": 1399000,
+    "newPrice": 660680,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.42061604234",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 385,
+    "title": "Giày Sandals Trẻ Em Teva Hurricane Xlt 2 - Xanh Lá - 1019390C-SVV ADS12 LS400",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ras8-marwa37s0d071e",
+    "oldPrice": 990000,
+    "newPrice": 468120,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -20%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.28817889379",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 386,
+    "title": "Giày Sandals Trẻ Em Teva Hurricane Xlt 2 - Hồng - 1019390C-SVP ADS11 LS500",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ras8-marwh5w1d2v5f1",
+    "oldPrice": 990000,
+    "newPrice": 468120,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.26018038571",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 387,
+    "title": "Quần Ngắn Nam O'Neill Jay Stretch - Xanh Quân Đội  - SP3108101-OLV",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-maar05njuxdv3e",
+    "oldPrice": 1299000,
+    "newPrice": 615030,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.27814755499",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 388,
+    "title": "Dép Xỏ Ngón Nữ Crocs Mellow Recovery - 211100-6UR ADS09 LS300",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/mx-11134275-81z1k-mdyaykrmfmyqd8",
+    "oldPrice": 1295000,
+    "newPrice": 615600,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.28890573823",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 389,
+    "title": "Dép Quai Ngang Unisex Crocs Classic V2 - Xanh Dương - 209403-4NS ADS04 LS100",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ras8-mb3osqq8rnv0a1",
+    "oldPrice": 1095000,
+    "newPrice": 520600,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.28781724248",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 390,
+    "title": "Giày Sandals Nam Teva Hurricane Xlt2 Revive - Xanh Lá - 1158991-SVV ADS06 LS300",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-ma3tdter01oie0",
+    "oldPrice": 1495000,
+    "newPrice": 722930,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.28053841342",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 391,
+    "title": "Giày Chạy Bộ Nam HOKA Mach 6 Wide - Be - 1147833-WWH",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134275-81ztc-mlmwyrju5atd5a",
+    "oldPrice": 3599000,
+    "newPrice": 1748450,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.48757026204",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 392,
+    "title": "Quần Dài Thể Thao Nam Puma Downtown Double - Xanh Dương  - 62436814",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-maaqztg1sxgrc2",
+    "oldPrice": 2199000,
+    "newPrice": 1072360,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.27953841309",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 393,
+    "title": "Quần Ngắn Thời Trang Nữ Puma Classics Ribbed A-Line - Cam  - 62425445",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-maar7hhzr3wj1c",
+    "oldPrice": 1499000,
+    "newPrice": 731230,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.25481335659",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 394,
+    "title": "Áo Khoác Nam Puma Downtown - Be - 62369566 ADS10 LS200",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-mae1f01uavnl7e",
+    "oldPrice": 2399000,
+    "newPrice": 1170300,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.27953841355",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 395,
+    "title": "Mũ Lưỡi Trai HOKA Grid - Nhiều Màu - 1164950-GDY",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134275-820l4-mezincle1sei6a",
+    "oldPrice": 799000,
+    "newPrice": 393550,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.29692024594",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 396,
+    "title": "Quần Dài Thể Thao Nam Under Armour Vanish Fitted - Xám  - 1387795-025",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-maar1pfu82nfa8",
+    "oldPrice": 2640000,
+    "newPrice": 1303930,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.27267276481",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 397,
+    "title": "Nhẫn nữ kim cương Moissanite 6.5ly tinh tế, sang trọng kiểm định GRA xi bạch kim NNM0001 - Trang Sức TNJ",
+    "category": "Thời Trang",
+    "brand": "trangsuctnj",
+    "image": "https://cf.shopee.vn/file/vn-11134207-7qukw-lfwtclkrurqv68",
+    "oldPrice": 1570000,
+    "newPrice": 779000,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.17259208.17697225294",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 398,
+    "title": "Quần Ngắn Nam Under Armour Meridian - Hồng - 1386977-015 ADS25-RM",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-maar252tc70j2c",
+    "oldPrice": 2180000,
+    "newPrice": 1084810,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.27159659698",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 399,
+    "title": "Quần Ngắn Nữ Under Armour Lets Go Middy - Đen  - 1388091-001",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-maar52dt8kj6e0",
+    "oldPrice": 2180000,
+    "newPrice": 1084810,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.26058132868",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 400,
+    "title": "Giày Chạy Bộ Nam HOKA Gaviota 5 Wide - Xanh Navy - 1134234-VYN",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134275-81ztc-mlmwyq7cuq6n55",
+    "oldPrice": 3999000,
+    "newPrice": 1992400,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.44557027760",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 401,
+    "title": "Áo Thun Nữ HOKA Glidetech - Tím - 1164159G-GDY",
+    "category": "Thời Trang",
+    "brand": "supersportsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134275-820l4-mezinc6fv7rc54",
+    "oldPrice": 1199000,
+    "newPrice": 599250,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.82611496.40420886775",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 402,
+    "title": "Giày Thể Thao Unisex Crocs Echo Surge - Pond - 210079-3YO",
+    "category": "Thời Trang",
+    "brand": "crocsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134275-820l4-mh8qjmcvyoll9f",
+    "oldPrice": 2595000,
+    "newPrice": 1297500,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.844495450.53751699834",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 403,
+    "title": "Giày Clog Unisex Crocs Baya Holiday Graphic - Pepper - 211938-6EN",
+    "category": "Thời Trang",
+    "brand": "crocsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134211-820l4-mgq8x0lapammd8",
+    "oldPrice": 1695000,
+    "newPrice": 847500,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.844495450.55150910689",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 404,
+    "title": "Giày Clog Trẻ Em Crocs Toddler Classic Iridescent Glitte - Dragon Fruit - 210985-6ZQ",
+    "category": "Thời Trang",
+    "brand": "crocsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134211-820l4-me9l85l30j5z33",
+    "oldPrice": 1095000,
+    "newPrice": 547500,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.844495450.40567459942",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 405,
+    "title": "Dép Xăng Đan Unisex Crocs Baya - Pink Clay - 207627-6TY",
+    "category": "Thời Trang",
+    "brand": "crocsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134211-7ras8-mcltzy92ig4i21",
+    "oldPrice": 1095000,
+    "newPrice": 547500,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.844495450.27189172046",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 406,
+    "title": "Giày Clog Unisex Crocs Classic Turbo - White - 211287-100",
+    "category": "Thời Trang",
+    "brand": "crocsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134211-7ras8-mbz55kipa6wa50",
+    "oldPrice": 1795000,
+    "newPrice": 897500,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.844495450.41757878211",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 407,
+    "title": "Giày Clog Trẻ Em Crocs Classic Football - Dark Clay - 210158-2FL",
+    "category": "Thời Trang",
+    "brand": "crocsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ras8-marus3vbuyf501",
+    "oldPrice": 1295000,
+    "newPrice": 647500,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.844495450.29580515971",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 408,
+    "title": "Giày Clog Trẻ Em Crocs Classic Basketball - Sienna - 210156-805",
+    "category": "Thời Trang",
+    "brand": "crocsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ras8-marus688erbr38",
+    "oldPrice": 1295000,
+    "newPrice": 647500,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.844495450.28972485965",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 409,
+    "title": "Giày Clog Unisex Crocs Classic - Cognac - 10001-21N",
+    "category": "Thời Trang",
+    "brand": "crocsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ras8-marusvjzchak87",
+    "oldPrice": 1495000,
+    "newPrice": 747500,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.844495450.26121810437",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 410,
+    "title": "Giày Clog Trẻ Em Crocs Classic Frozen Elsa - 210235-90H",
+    "category": "Thời Trang",
+    "brand": "crocsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ras8-marutbozqajc17",
+    "oldPrice": 1495000,
+    "newPrice": 747500,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.844495450.24937969689",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 411,
+    "title": "Dép Xăng Đan Unisex Crocs Classic V2 - White - 209403-100",
+    "category": "Thời Trang",
+    "brand": "crocsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134201-7ra0g-mado77i7w535a9",
+    "oldPrice": 1095000,
+    "newPrice": 547500,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.844495450.25510368304",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 412,
+    "title": "Dép Xăng Đan Nữ Crocs Miami Toe Loop - Dew - 209862-0WW",
+    "category": "Thời Trang",
+    "brand": "crocsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134211-81ztc-ml7c8jc7ow7499",
+    "oldPrice": 1095000,
+    "newPrice": 547500,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.844495450.44078930715",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 413,
+    "title": "Giày Clog Unisex Crocs Classic Turbo - Coffee - 211287-21Q",
+    "category": "Thời Trang",
+    "brand": "crocsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134211-81ztc-ml7c8jc194i75a",
+    "oldPrice": 1795000,
+    "newPrice": 897500,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.844495450.45406541727",
+    "tag": "Flash Sale"
+  },
+  {
+    "id": 414,
+    "title": "Giày Clog Unisex Crocs InMotion - Frog - 209964-1HA",
+    "category": "Thời Trang",
+    "brand": "crocsvn",
+    "image": "https://cf.shopee.vn/file/vn-11134211-81ztc-ml7c8jc0v2trdf",
+    "oldPrice": 2095000,
+    "newPrice": 1047500,
+    "sold": 0,
+    "stockPercent": 0,
+    "isHot": true,
+    "coupon": "Facebook -22%",
+    "affiliateUrl": "https://shopee.vn/a-i.844495450.52606525409",
     "tag": "Flash Sale"
   }
 ]
