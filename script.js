@@ -108,6 +108,11 @@ function renderHero() {
   document.getElementById('heroCoupon').textContent = bestDeal.coupon || 'Không có';
   document.getElementById('heroCategory').textContent = bestDeal.category;
   document.getElementById('heroBtn').href = bestDeal.affiliateUrl || '#dealSection';
+
+  const heroImg = document.getElementById('heroImage');
+  if (heroImg && bestDeal.image) {
+    heroImg.src = bestDeal.image;
+  }
 }
 
 function renderCoupons() {
