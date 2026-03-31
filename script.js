@@ -188,7 +188,9 @@ function renderDeals() {
   dealGrid.innerHTML = visibleDeals.map(item => `
     <article class="deal-card">
       <div class="deal-thumb">
-        <img src="${item.image}" alt="${escapeHtml(item.title)}" loading="lazy" />
+        <a href="${item.affiliateUrl}" target="_blank" rel="nofollow sponsored noopener">
+          <img src="${item.image}" alt="${escapeHtml(item.title)}" loading="lazy" />
+        </a>
         <div class="badge-wrap">
           ${item.isHot ? '<span class="badge badge-hot">HOT</span>' : ''}
           ${item.tag ? `<span class="badge badge-tag">${item.tag}</span>` : ''}
@@ -198,7 +200,9 @@ function renderDeals() {
 
       <div class="deal-content">
         <div class="deal-category">${item.category}</div>
-        <h3 class="deal-title">${item.title}</h3>
+        <h3 class="deal-title">
+          <a href="${item.affiliateUrl}" target="_blank" rel="nofollow sponsored noopener">${item.title}</a>
+        </h3>
         <div class="deal-brand">Thương hiệu: ${item.brand}</div>
 
         <div class="price-row">
