@@ -1,123 +1,613 @@
-<!DOCTYPE html>
-<html lang="vi">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="icon" type="image/png" href="https://i.ibb.co/kshnd75C/favicon.png">
-  <title>Săn Deal Siêu Nhanh | Mã Giảm Giá Hot và Mới Nhất</title>
-  <meta name="description" content="Web săn deal giảm giá - cập nhật deal hot, mã giảm giá, flash sale mỗi ngày." />
-  <meta property="og:title" content="Săn Deal Nhanh | Tổng hợp mã giảm giá hot nhất" />
-  <meta property="og:description" content="Cập nhật deal hot, mã giảm giá từ Shopee, Lazada, Tiki mỗi ngày." />
-  <meta property="og:type" content="website" />
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css" />
-</head>
-<body>
-  <header class="site-header">
-    <div class="container header-wrap">
-      <div class="brand">
-        <div class="brand-logo">
-          <img src="https://i.ibb.co/kshnd75C/favicon.png" alt="Săn Deal Siêu Tốc Logo">
-        </div>
-        <div>
-          <h1>Săn Deal Siêu Tốc</h1>
-          <p>Deal hot • Mã ngon • Giá tốt mỗi ngày</p>
-        </div>
-      </div>
 
-      <form class="header-actions" onsubmit="return false;">
-        <label for="searchInput" class="sr-only">Tìm kiếm</label>
-        <input type="search" id="searchInput" placeholder="Tìm sản phẩm, thương hiệu..." aria-label="Tìm kiếm sản phẩm" />
-      </form>
-    </div>
-  </header>
+:root {
+  --primary: #ff5a1f;
+  --primary-dark: #e84b12;
+  --bg: #f7f8fa;
+  --card: #ffffff;
+  --text: #1f2937;
+  --muted: #6b7280;
+  --line: #e5e7eb;
+  --green: #16a34a;
+  --red: #ef4444;
+  --yellow: #f59e0b;
+  --shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
+  --radius: 18px;
+}
 
-  <main>
-    <section class="hero">
-      <div class="container hero-grid">
-        <div class="hero-left card" id="heroCard">
-          <div class="hero-content">
-            <span class="hero-badge">🔥 DEAL HOT HÔM NAY</span>
-            <h2 id="heroTitle">Đang tải deal tốt nhất...</h2>
-            <p id="heroDesc">Hệ thống tự động chọn deal có mức giảm hấp dẫn nhất từ dữ liệu JSON.</p>
-            <div class="hero-stats">
-              <div><strong id="heroDiscount">0%</strong><span>Giảm giá</span></div>
-              <div><strong id="heroCoupon">---</strong><span>Mã giảm</span></div>
-              <div><strong id="heroCategory">---</strong><span>Danh mục</span></div>
-            </div>
-            <a id="heroBtn" href="#dealSection" class="btn btn-primary">Xem deal ngay</a>
-          </div>
-        </div>
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 
-        <div class="hero-right card coupon-box">
-          <h3>Mã giảm giá nổi bật</h3>
-          <div id="couponList" class="coupon-list"></div>
-        </div>
-      </div>
-    </section>
+body {
+  font-family: 'Be Vietnam Pro', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+}
 
-    <section class="toolbar-section">
-      <div class="container toolbar card">
-        <div class="toolbar-group">
-          <label for="categoryFilter">Danh mục</label>
-          <select id="categoryFilter" aria-label="Chọn danh mục sản phẩm">
-            <option value="all">Tất cả danh mục</option>
-          </select>
-        </div>
+img {
+  display: block;
+  width: 100%;
+}
 
-        <div class="toolbar-group">
-          <label for="sortFilter">Sắp xếp</label>
-          <select id="sortFilter">
-            <option value="featured">Nổi bật</option>
-            <option value="discount-desc">Giảm giá cao nhất</option>
-            <option value="price-asc">Giá thấp đến cao</option>
-            <option value="price-desc">Giá cao đến thấp</option>
-            <option value="sold-desc">Bán chạy nhất</option>
-          </select>
-        </div>
+button,
+input,
+select {
+  font: inherit;
+}
 
-        <div class="toolbar-group stats-box">
-          <span>Tổng deal:</span>
-          <strong id="dealCount">0</strong>
-        </div>
-      </div>
-    </section>
+.container {
+  width: min(1280px, 92%);
+  margin: 0 auto;
+}
 
-    <section class="deal-section" id="dealSection">
-      <div class="container">
-        <div class="section-head">
-          <h2>Danh sách deal nổi bật</h2>
-          <p>Mỗi sản phẩm là 1 card deal, tự động render từ file <code>products.json</code></p>
-        </div>
+.card {
+  background: var(--card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
 
-        <div id="dealGrid" class="deal-grid"></div>
+.hidden {
+  display: none !important;
+}
 
-        <div class="load-more-wrap">
-          <div id="loadMoreBtn" class="btn btn-secondary">Đang tải thêm deal...</div>
-        </div>
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid rgba(229, 231, 235, 0.8);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
 
-        <div id="emptyState" class="empty-state hidden">
-          <h3>Không tìm thấy sản phẩm phù hợp</h3>
-          <p>Hãy thử đổi từ khóa hoặc chọn danh mục khác.</p>
-        </div>
-      </div>
-    </section>
-  </main>
+.header-wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  padding: 16px 0;
+  transition: all 0.3s ease;
+}
 
-  <footer class="site-footer">
-    <div class="container footer-wrap">
-      <div>
-        <strong>Săn Deal Nhanh</strong>
-        <p>Website tổng hợp deal giảm giá & liên kết tiếp thị.</p>
-      </div>
-      <div class="footer-note">
-        <p>© 2026 - HTML thuần | Tự render từ JSON</p>
-      </div>
-    </div>
-  </footer>
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  transition: all 0.3s ease;
+  max-height: 100px;
+}
 
-  <script src="script.js"></script>
-</body>
-</html>
+.brand-text {
+  flex: 1;
+}
+
+.brand-logo {
+  width: 52px;
+  height: 52px;
+  border-radius: 16px;
+  overflow: hidden;
+  background: none; /* Loại bỏ nền gradient cũ */
+}
+
+.brand-logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.brand h1 {
+  font-size: 1.25rem;
+  font-weight: 800;
+}
+
+.brand p {
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.header-actions input {
+  width: 340px;
+  max-width: 100%;
+  padding: 14px 16px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  outline: none;
+}
+
+.hero {
+  padding: 28px 0 20px;
+}
+
+.hero-grid {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: 20px;
+}
+
+.hero-left,
+.hero-right,
+.toolbar {
+  padding: 24px;
+}
+
+.hero-badge {
+  display: inline-block;
+  padding: 8px 12px;
+  background: #fff1eb;
+  color: var(--primary);
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  margin-bottom: 14px;
+}
+
+.hero-left h2 {
+  font-size: clamp(1.6rem, 2.8vw, 2.4rem);
+  margin-bottom: 10px;
+}
+
+.hero-left p {
+  color: var(--muted);
+  margin-bottom: 18px;
+}
+
+.hero-stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px;
+  margin-bottom: 20px;
+}
+
+.hero-stats div {
+  padding: 14px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+}
+
+.hero-stats strong {
+  display: block;
+  font-size: 1.2rem;
+  color: var(--primary);
+}
+
+.hero-stats span {
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.btn {
+  border: none;
+  border-radius: 14px;
+  padding: 14px 18px;
+  cursor: pointer;
+  font-weight: 700;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: 0.25s ease;
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+  color: #fff;
+}
+
+.btn-primary:hover,
+.btn-secondary:hover {
+  transform: translateY(-2px);
+}
+
+.btn-secondary {
+  background: #fff;
+  border: 1px solid var(--line);
+  color: var(--text);
+}
+
+.coupon-box h3 {
+  margin-bottom: 16px;
+}
+
+.coupon-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.coupon-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  padding: 14px;
+  border: 1px dashed #fdba74;
+  border-radius: 14px;
+  background: #fffaf5;
+}
+
+.coupon-code {
+  font-weight: 800;
+  color: var(--primary);
+}
+
+.copy-btn {
+  padding: 8px 12px;
+  border-radius: 10px;
+  border: none;
+  background: var(--primary);
+  color: #fff;
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.toolbar-section {
+  padding: 8px 0 10px;
+}
+
+.toolbar {
+  display: grid;
+  grid-template-columns: 1fr 1fr auto;
+  gap: 16px;
+  align-items: flex-end;
+}
+
+.toolbar-group label {
+  display: block;
+  font-size: 0.9rem;
+  margin-bottom: 8px;
+  color: var(--muted);
+}
+
+.toolbar-group select {
+  width: 100%;
+  padding: 12px 14px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: #fff;
+}
+
+.stats-box {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding-bottom: 10px;
+}
+
+.deal-section {
+  padding: 18px 0 50px;
+}
+
+.section-head {
+  margin-bottom: 18px;
+}
+
+.section-head h2 {
+  font-size: 1.5rem;
+  margin-bottom: 6px;
+}
+
+.section-head p {
+  color: var(--muted);
+}
+
+.deal-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 18px;
+}
+
+.deal-card {
+  background: #fff;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  transition: 0.25s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.deal-card:hover {
+  transform: translateY(-4px);
+}
+
+.deal-thumb {
+  position: relative;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  background: #fff;
+}
+
+.deal-thumb a {
+  display: block;
+  height: 100%;
+}
+
+.deal-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.deal-card:hover .deal-thumb img {
+  transform: scale(1.08);
+}
+
+.badge-wrap {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.badge {
+  padding: 6px 10px;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 800;
+  color: #fff;
+}
+
+.badge-hot { background: var(--red); }
+.badge-tag { background: var(--primary); }
+.badge-sale { background: var(--green); }
+
+.deal-content {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  flex: 1;
+}
+
+.deal-category {
+  font-size: 0.8rem;
+  color: var(--primary);
+  font-weight: 700;
+}
+
+.deal-title {
+  font-size: 1rem;
+  font-weight: 700;
+  min-height: 48px;
+}
+
+.deal-title a {
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.2s ease;
+}
+
+.deal-title a:hover {
+  color: var(--primary);
+}
+
+.deal-brand {
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.price-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.new-price {
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: var(--primary);
+}
+
+.old-price {
+  font-size: 0.9rem;
+  color: #9ca3af;
+  text-decoration: line-through;
+}
+
+.discount-rate {
+  font-size: 0.82rem;
+  font-weight: 800;
+  color: var(--green);
+}
+
+.meta-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.stock-bar {
+  height: 10px;
+  background: #f3f4f6;
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.stock-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #f59e0b, #ef4444);
+}
+
+.coupon-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  background: #fff7ed;
+  border: 1px dashed #fdba74;
+  border-radius: 12px;
+  padding: 10px 12px;
+}
+
+.coupon-row span {
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.coupon-row strong {
+  color: var(--primary);
+}
+
+.card-actions {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 10px;
+}
+
+.card-actions a {
+  width: 100%;
+}
+
+.load-more-wrap {
+  display: flex;
+  justify-content: center;
+  margin-top: 24px;
+}
+
+.empty-state {
+  margin-top: 24px;
+  text-align: center;
+  background: #fff;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: var(--shadow);
+}
+
+.empty-state p {
+  color: var(--muted);
+  margin-top: 8px;
+}
+
+.site-footer {
+  background: #111827;
+  color: #fff;
+  padding: 26px 0;
+}
+
+.footer-wrap {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.footer-wrap p {
+  color: #cbd5e1;
+  font-size: 0.92rem;
+}
+
+@media (max-width: 1100px) {
+  .deal-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 900px) {
+  .hero-grid,
+  .toolbar {
+    grid-template-columns: 1fr;
+  }
+
+  .deal-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .header-wrap {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 12px 0;
+  }
+
+  .header-shrunk .brand {
+    max-height: 0;
+    opacity: 0;
+    margin-bottom: 0;
+    overflow: hidden;
+    pointer-events: none;
+    transform: translateY(-20px);
+  }
+
+  .header-shrunk .header-wrap {
+    padding: 8px 0;
+    gap: 0;
+  }
+
+  .brand {
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .header-actions input {
+    width: 100%;
+  }
+
+  .hero-left, .hero-right, .toolbar {
+    padding: 16px;
+  }
+}
+
+@media (max-width: 560px) {
+  .deal-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-stats {
+    grid-template-columns: 1fr;
+  }
+
+  .toolbar {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .toolbar-group label {
+    margin-bottom: 4px;
+  }
+
+  .card-actions {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-left h2 {
+    font-size: 1.5rem;
+  }
+
+  .price-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+  }
+}
+.hero-left.card {
+  position: relative;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 380px; /* Đảm bảo đủ chiều cao hiển thị */
+  display: flex;
+  align-items: center;
+  border: none;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  max-width: 550px; /* Giới hạn độ rộng chữ để không che hết ảnh */
+  padding: 40px;
+  background: linear-gradient(90deg, rgba(255,255,255,0.95) 60%, rgba(255,255,255,0));
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
