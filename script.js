@@ -216,7 +216,6 @@ function renderDeals() {
             <span>Mã giảm:</span>
             <strong>${item.coupon || 'Không có'}</strong>
           </div>
-          ${item.coupon ? `<button class="copy-btn" onclick="copyCoupon('${item.coupon}')">Copy</button>` : ''}
         </div>
 
         <div class="card-actions">
