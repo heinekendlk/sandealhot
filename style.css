@@ -401,7 +401,7 @@ select {
   font-size: 0.85rem;
   color: var(--muted);
    display: -webkit-box;
-  -webkit-line-clamp: 2; /* Giới hạn tối đa 2 dòng */
+  -webkit-line-clamp: 1; /* Giới hạn tối đa 2 dòng */
   -webkit-box-orient: vertical;
   overflow: hidden;
   line-height: 1.5;
