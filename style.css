@@ -423,6 +423,7 @@ select {
   gap: 10px;
   font-size: 0.85rem;
   color: var(--muted);
+  display:none;
 }
 
 .stock-bar {
