@@ -288,7 +288,7 @@ function renderDeals() {
         </div>
 
         <div class="card-actions">
-          <a href="${item.affiliateUrl}" target="_blank" rel="nofollow sponsored noopener" class="btn btn-primary">Xem giá mới</a>
+          <a href="${item.affiliateUrl}" target="_blank" rel="nofollow sponsored noopener" class="btn btn-primary">Xem giá</a>
           <button class="btn btn-secondary" onclick="shareDeal('${escapeJs(item.title)}', '${item.affiliateUrl}')">Chia sẻ</button>
         </div>
       </div>
